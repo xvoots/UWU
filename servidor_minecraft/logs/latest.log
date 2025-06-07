@@ -1,43 +1,43 @@
-[02:45:16] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:45:16] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[02:51:47] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[02:51:47] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[02:45:17] [ForkJoinPool-1-worker-2/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+[02:51:48] [ForkJoinPool-1-worker-1/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 27 column 4
 - Unsupported root entry "" at line 27 column 198
 - Unsupported root entry "" at line 29 column 4
 - Unsupported root entry "" at line 29 column 24
-[02:45:17] [ForkJoinPool-1-worker-2/WARN]: Mod totw_modded uses the version fabric-1.21-1.0.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[02:45:17] [ForkJoinPool-1-worker-2/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+[02:51:48] [ForkJoinPool-1-worker-2/WARN]: Mod totw_modded uses the version fabric-1.21-1.0.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:51:48] [ForkJoinPool-1-worker-2/WARN]: The mod "betterstats" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 26 column 4
 - Unsupported root entry "" at line 26 column 124
 - Unsupported root entry "" at line 28 column 4
 - Unsupported root entry "" at line 28 column 24
-[02:45:18] [main/WARN]: Mod resolution failed
-[02:45:18] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE adorn 6.0.3+1.21.1 {depends fabric-api @ [>=0.104.0]}, ROOT_FORCELOAD_SINGLE adorn 6.0.3+1.21.1]
-[02:45:18] [main/INFO]: Reason: [HARD_DEP adorn 6.0.3+1.21.1 {depends fabric-api @ [>=0.104.0]}, HARD_DEP armorstandposes 1.2.0 {depends minecraft @ [1.21]}, HARD_DEP chargedmobs 2.1.0 {depends fabricloader @ [>=0.16.14]}, HARD_DEP easydisenchanting 1.0.0 {depends txnilib @ [*]}, HARD_DEP easyshulkerboxes 21.0.3 {depends puzzleslib @ [>=21.0.20]}, HARD_DEP easyshulkerboxes 21.0.3 {depends minecraft @ [1.21]}, HARD_DEP iteminteractions 21.0.5 {depends puzzleslib @ [>=21.0.18]}, HARD_DEP iteminteractions 21.0.5 {depends minecraft @ [1.21]}, HARD_DEP fabric-language-kotlin 1.13.3+kotlin.2.1.21 {depends fabricloader @ [>=0.16.9]}, HARD_DEP forgeconfigapiport 21.0.8 {depends minecraft @ [1.21]}, HARD_DEP handcrafted 4.0.3 {depends resourcefullib @ [>=3.0.0]}, HARD_DEP jamlib 1.2.2-build.2+1.21.1 {depends architectury @ [>=13.0.6]}, HARD_DEP mcwbridges 3.1.0 {depends fabricloader @ [>=0.16.10]}, HARD_DEP mcwlights 1.1.2 {depends fabricloader @ [>=0.16.10]}, HARD_DEP minekea 7.1.0 {depends architectury @ [>=13.0.2]}, HARD_DEP minekea 7.1.0 {depends chimericlib @ [>=2.2.0-beta.0]}, HARD_DEP nemos-carpentry 2.5.3-1.21.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP nemos-mossy-blocks 1.6-1.21.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP octolib 0.5.0.1 {depends architectury @ [>=13.0.2]}, HARD_DEP panorama 1.3.0 {depends minecraft @ [1.21]}, HARD_DEP pickupnotifier 21.0.0 {depends puzzleslib @ [>=21.0.4]}, HARD_DEP pickupnotifier 21.0.0 {depends minecraft @ [1.21]}, HARD_DEP rightclickharvest 4.4.4+1.21.1 {depends architectury @ [>=13.0.6]}, HARD_DEP scuro_furniture 1.0.0 {depends fabricloader @ [>=0.16.5]}]
-[02:45:18] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, status-effect-bars, fabric-keybindings-v0, entity_texture_features, modmenu, betterbeds, ukulib, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, particlerain, eatinganimationid, bobby, citresewn, fabric-sound-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, spruceui, replaymod, prism, fabric-model-loading-api-v1, lighty, freecam, iris, optigui, dontdothat, malilib, indium, continuity, immediatelyfast, animatica, fabric-client-tags-api-v1, enhancedblockentities, cherishedworlds, litematica, visuality, scribble, fabric-blockrenderlayer-v1, fpsreducer, sodium, betterf3, fabric-renderer-registries-v1, text-formatting-everywhere, rrls, particle_core, badoptimizations, detailab]
-[02:45:18] [main/INFO]: Fix: add [add:txnilib 1 ([(-∞,∞)]), add:resourcefullib 3.0.0 ([[3.0.0,∞)]), add:architectury 13.0.6 ([[13.0.6,∞)]), add:chimericlib 2.2.0-beta.0 ([[2.2.0-beta.0,∞)])], remove [], replace [[armorstandposes 1.2.0] -> add:armorstandposes 1 ([(-∞,∞)]), [fabricloader 0.16.3] -> add:fabricloader 0.16.14 ([[0.16.14,∞)]), [adorn 6.0.3+1.21.1] -> add:adorn 1 ([(-∞,∞)]), [easyshulkerboxes 21.0.3] -> add:easyshulkerboxes 1 ([(-∞,∞)]), [pickupnotifier 21.0.0] -> add:pickupnotifier 1 ([(-∞,∞)]), [panorama 1.3.0] -> add:panorama 1 ([(-∞,∞)])]
-[02:45:18] [main/ERROR]: Incompatible mods found!
+[02:51:48] [main/WARN]: Mod resolution failed
+[02:51:48] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE adorn 6.0.3+1.21.1 {depends fabric-api @ [>=0.104.0]}, ROOT_FORCELOAD_SINGLE adorn 6.0.3+1.21.1]
+[02:51:48] [main/INFO]: Reason: [HARD_DEP adorn 6.0.3+1.21.1 {depends fabric-api @ [>=0.104.0]}, HARD_DEP armorstandposes 1.2.0 {depends minecraft @ [1.21]}, HARD_DEP chargedmobs 2.1.0 {depends fabricloader @ [>=0.16.14]}, HARD_DEP easydisenchanting 1.0.0 {depends txnilib @ [*]}, HARD_DEP easyshulkerboxes 21.0.3 {depends puzzleslib @ [>=21.0.20]}, HARD_DEP easyshulkerboxes 21.0.3 {depends minecraft @ [1.21]}, HARD_DEP iteminteractions 21.0.5 {depends puzzleslib @ [>=21.0.18]}, HARD_DEP iteminteractions 21.0.5 {depends minecraft @ [1.21]}, HARD_DEP fabric-language-kotlin 1.13.3+kotlin.2.1.21 {depends fabricloader @ [>=0.16.9]}, HARD_DEP forgeconfigapiport 21.0.8 {depends minecraft @ [1.21]}, HARD_DEP handcrafted 4.0.3 {depends resourcefullib @ [>=3.0.0]}, HARD_DEP jamlib 1.2.2-build.2+1.21.1 {depends architectury @ [>=13.0.6]}, HARD_DEP mcwbridges 3.1.0 {depends fabricloader @ [>=0.16.10]}, HARD_DEP mcwlights 1.1.2 {depends fabricloader @ [>=0.16.10]}, HARD_DEP minekea 7.1.0 {depends architectury @ [>=13.0.2]}, HARD_DEP minekea 7.1.0 {depends chimericlib @ [>=2.2.0-beta.0]}, HARD_DEP nemos-carpentry 2.5.3-1.21.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP nemos-mossy-blocks 1.6-1.21.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP octolib 0.5.0.1 {depends architectury @ [>=13.0.2]}, HARD_DEP panorama 1.3.0 {depends minecraft @ [1.21]}, HARD_DEP pickupnotifier 21.0.0 {depends puzzleslib @ [>=21.0.4]}, HARD_DEP pickupnotifier 21.0.0 {depends minecraft @ [1.21]}, HARD_DEP rightclickharvest 4.4.4+1.21.1 {depends architectury @ [>=13.0.6]}, HARD_DEP scuro_furniture 1.0.0 {depends fabricloader @ [>=0.16.5]}]
+[02:51:48] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, status-effect-bars, fabric-keybindings-v0, entity_texture_features, modmenu, betterbeds, ukulib, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, particlerain, eatinganimationid, bobby, citresewn, fabric-sound-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, spruceui, replaymod, prism, fabric-model-loading-api-v1, lighty, freecam, iris, optigui, dontdothat, malilib, indium, continuity, immediatelyfast, animatica, fabric-client-tags-api-v1, enhancedblockentities, cherishedworlds, litematica, visuality, scribble, fabric-blockrenderlayer-v1, fpsreducer, sodium, betterf3, fabric-renderer-registries-v1, text-formatting-everywhere, rrls, particle_core, badoptimizations, detailab]
+[02:51:48] [main/INFO]: Fix: add [add:txnilib 1 ([(-∞,∞)]), add:resourcefullib 3.0.0 ([[3.0.0,∞)]), add:architectury 13.0.6 ([[13.0.6,∞)]), add:chimericlib 2.2.0-beta.0 ([[2.2.0-beta.0,∞)])], remove [], replace [[adorn 6.0.3+1.21.1] -> add:adorn 1 ([(-∞,∞)]), [panorama 1.3.0] -> add:panorama 1 ([(-∞,∞)]), [armorstandposes 1.2.0] -> add:armorstandposes 1 ([(-∞,∞)]), [easyshulkerboxes 21.0.3] -> add:easyshulkerboxes 1 ([(-∞,∞)]), [fabricloader 0.16.3] -> add:fabricloader 0.16.14 ([[0.16.14,∞)]), [pickupnotifier 21.0.0] -> add:pickupnotifier 1 ([(-∞,∞)])]
+[02:51:48] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install txnilib, any version.
 	 - Install resourcefullib, version 3.0.0 or later.
 	 - Install architectury, version 13.0.6 or later.
 	 - Install chimericlib, version 2.2.0-beta.0 or later.
-	 - Replace mod 'Armor Stand Poses' (armorstandposes) 1.2.0 with any version that is compatible with:
-		 - fabricloader, version 0.16.14 or later
-		 - minecraft 1.21.1
-	 - Replace mod 'Fabric Loader' (fabricloader) 0.16.3 with version 0.16.14 or later.
 	 - Replace mod 'Adorn' (adorn) 6.0.3+1.21.1 with any version that is compatible with:
 		 - fabricloader, version 0.16.14 or later
 		 - fabric-api 0.102.0+1.21.1
+	 - Replace mod 'Panorama' (panorama) 1.3.0 with any version that is compatible with:
+		 - fabricloader, version 0.16.14 or later
+		 - minecraft 1.21.1
+	 - Replace mod 'Armor Stand Poses' (armorstandposes) 1.2.0 with any version that is compatible with:
+		 - fabricloader, version 0.16.14 or later
+		 - minecraft 1.21.1
 	 - Replace mod 'Easy Shulker Boxes' (easyshulkerboxes) 21.0.3 with any version that is compatible with:
 		 - fabricloader, version 0.16.14 or later
 		 - minecraft 1.21.1
+	 - Replace mod 'Fabric Loader' (fabricloader) 0.16.3 with version 0.16.14 or later.
 	 - Replace mod 'Pick Up Notifier' (pickupnotifier) 21.0.0 with any version that is compatible with:
-		 - fabricloader, version 0.16.14 or later
-		 - minecraft 1.21.1
-	 - Replace mod 'Panorama' (panorama) 1.3.0 with any version that is compatible with:
 		 - fabricloader, version 0.16.14 or later
 		 - minecraft 1.21.1
 More details:
