@@ -84,6 +84,18 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/storage/compressed/wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-07 16:48:17 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/decorations/decorations/lighting/end_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-07 16:49:46 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-06-07 16:44:27 +0000"
@@ -144,9 +156,21 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-06-07 16:49:46 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/compressed/dirt/1x": {
     "criteria": {
       "has_dirt": "2025-06-07 16:44:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/decorations/decorations/lighting/doom_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-07 16:49:46 +0000"
     },
     "done": true
   },
@@ -186,6 +210,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-06-07 16:49:46 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-06-07 16:44:27 +0000"
@@ -219,6 +249,12 @@
   "adorn:recipes/chain_link_fence": {
     "criteria": {
       "has_key_item_0": "2025-06-07 16:44:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-06-07 16:49:46 +0000"
     },
     "done": true
   },
@@ -258,6 +294,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-06-07 16:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-07 16:45:49 +0000"
@@ -273,6 +315,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-06-07 16:44:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/decorations/decorations/lighting/ancient_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-07 16:49:46 +0000"
     },
     "done": true
   },
@@ -297,6 +345,12 @@
   "adorn:recipes/stone_ladder": {
     "criteria": {
       "has_stone": "2025-06-07 16:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-07 16:48:44 +0000"
     },
     "done": true
   },
