@@ -9,7 +9,8 @@
   },
   "armorMul": {},
   "armorAdd": {
-    "minecraft:giant": 4.0,
+    "minecraft:piglin": 4.0,
+    "minecraft:zombified_piglin": 4.0,
     "minecraft:zombie": 4.0,
     "minecraft:drowned": 4.0,
     "minecraft:zombie_villager": 4.0,
@@ -23,21 +24,20 @@
   },
   "knockbackResistanceMul": {},
   "knockbackResistanceAdd": {
-    "minecraft:illusioner": 0.3,
     "minecraft:witch": 0.5
   },
-  "followRangeMul": {},
+  "followRangeMul": {
+    "minecraft:cave_spider": 0.5,
+    "minecraft:ender_dragon": 0.5
+  },
   "followRangeAdd": {
     "minecraft:pillager": 12.0,
-    "minecraft:cave_spider": 16.0,
+    "minecraft:giant": 16.0,
+    "minecraft:illusioner": 16.0,
     "minecraft:vindicator": 12.0,
     "minecraft:evoker": 12.0
   },
-  "healthMul": {
-    "minecraft:piglin": 0.5,
-    "minecraft:zombified_piglin": 0.5,
-    "minecraft:ender_dragon": 0.5
-  },
+  "healthMul": {},
   "healthAdd": {
     "minecraft:spider": 6.0,
     "minecraft:wither": 7.0,
@@ -80,23 +80,14 @@
     "minecraft:spider"
   ],
   "randomAttribute": [
+    "followRangeAdd",
+    "healthAdd",
     "armorAdd",
     "followRangeMul",
     "healthMul",
-    "knockbackResistanceAdd",
-    "followRangeAdd",
-    "healthAdd"
+    "knockbackResistanceAdd"
   ],
   "banMobs": [
-    "minecraft:wither_skeleton",
-    "minecraft:shulker",
-    "minecraft:silverfish",
-    "minecraft:vex",
-    "minecraft:warden",
-    "minecraft:guardian",
-    "minecraft:creeper",
-    "minecraft:piglin_brute",
-    "minecraft:zoglin",
     "minecraft:breeze",
     "minecraft:creaking",
     "minecraft:endermite",
@@ -105,6 +96,15 @@
     "minecraft:elder_guardian",
     "minecraft:magma_cube",
     "minecraft:blaze",
-    "minecraft:hoglin"
+    "minecraft:hoglin",
+    "minecraft:wither_skeleton",
+    "minecraft:shulker",
+    "minecraft:silverfish",
+    "minecraft:vex",
+    "minecraft:warden",
+    "minecraft:guardian",
+    "minecraft:creeper",
+    "minecraft:piglin_brute",
+    "minecraft:zoglin"
   ]
 }
