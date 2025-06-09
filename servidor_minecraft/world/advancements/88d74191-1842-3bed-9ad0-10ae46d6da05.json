@@ -495,9 +495,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-08 03:33:51 +0000",
+      "minecraft:enderman": "2025-06-09 04:00:30 +0000",
       "minecraft:spider": "2025-06-08 02:08:24 +0000",
       "minecraft:zombie": "2025-06-08 02:44:34 +0000",
-      "minecraft:creeper": "2025-06-08 17:28:36 +0000"
+      "minecraft:creeper": "2025-06-08 17:28:36 +0000",
+      "minecraft:ghast": "2025-06-09 04:04:03 +0000"
     },
     "done": false
   },
@@ -4849,6 +4851,712 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-06-09 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/red": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-09 04:01:34 +0000",
+      "minecraft:nether_wastes": "2025-06-09 03:58:48 +0000",
+      "minecraft:soul_sand_valley": "2025-06-09 04:03:44 +0000",
+      "minecraft:basalt_deltas": "2025-06-09 04:03:18 +0000",
+      "minecraft:warped_forest": "2025-06-09 04:00:10 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_cherry_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/black": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/light_blue": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/polished_blackstone_bricks/1x": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/bone": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/cyan": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/bone": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/blackstone/1x": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/orange": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_crimson_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_mangrove_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/white": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/blackstone_post": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 04:02:46 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/bone_block/1x": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/light_gray": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-09 03:58:45 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_blackstone_brick_post": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/bone": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/pink": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_jungle_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_birch_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/polished_andesite/1x": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/purple": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_mosaic_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/green": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/polished_blackstone_brick": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-09 03:58:45 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/magenta": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/gray": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_post": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/netherrack/1x": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/polished_blackstone_brick": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_acacia_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/blue": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/lime": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/polished_blackstone_brick": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:01:24 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/brown": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/bone_block/yellow": {
+    "criteria": {
+      "has_bone_block": "2025-06-09 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 03:51:51 +0000"
     },
     "done": true
   },
