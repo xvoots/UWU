@@ -552,3 +552,13 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:05:44] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4d3df05d for service interface journeymap.api.services.CommonPlatformService
 [03:05:44] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [03:05:44] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[03:16:55] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[03:16:55] [Server thread/INFO]: xvoots[/127.96.171.213:46851] logged in with entity id 35 at (-233.6104606058416, 72.0, 464.4883609920979)
+[03:16:55] [Server thread/INFO]: Loading config from file...
+[03:16:55] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[03:16:56] [Server thread/INFO]: xvoots joined the game
+[03:16:56] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[03:16:56] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
