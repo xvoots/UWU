@@ -562,3 +562,19 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
 [03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
 [03:17:37] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:32:44] [Server thread/INFO]: Jeyysz[/127.42.148.235:44361] logged in with entity id 4767 at (-216.81521821057723, 73.15047375276309, 493.56465584244256)
+[03:32:44] [Server thread/INFO]: Loading config from file...
+[03:32:44] [Server thread/INFO]: Jeyysz joined the game
+[03:32:46] [Server thread/INFO]: [voicechat] Received secret request of Jeyysz (18)
+[03:32:46] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
+[03:32:55] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[03:32:55] [Server thread/INFO]: Jeyysz left the game
+[03:32:55] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
+[03:34:38] [Server thread/INFO]: Jeyysz[/127.42.148.235:46211] logged in with entity id 5329 at (-216.81521821057723, 73.15047375276309, 493.56465584244256)
+[03:34:38] [Server thread/INFO]: Loading config from file...
+[03:34:38] [Server thread/INFO]: Jeyysz joined the game
+[03:34:40] [Server thread/INFO]: [voicechat] Received secret request of Jeyysz (18)
+[03:34:40] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
+[03:34:50] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[03:34:50] [Server thread/INFO]: Jeyysz left the game
+[03:34:50] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
