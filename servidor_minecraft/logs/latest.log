@@ -558,3 +558,6 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [18:22:03] [Server thread/INFO]: xvoots joined the game
 [18:22:04] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
 [18:22:04] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[18:36:17] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[18:36:17] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[18:36:17] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
