@@ -5566,6 +5566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-10 04:02:57 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/spruce_park_bench_carpentry": {
     "criteria": {
       "has_spruce_planks": "2025-06-10 03:54:34 +0000"
@@ -5665,6 +5671,12 @@
   "adorn:recipes/polished_blackstone_post": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-10 04:02:57 +0000"
     },
     "done": true
   },
@@ -5863,6 +5875,12 @@
   "minekea:recipes/building_blocks/furniture/armoires/crimson": {
     "criteria": {
       "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-10 04:02:57 +0000"
     },
     "done": true
   },
