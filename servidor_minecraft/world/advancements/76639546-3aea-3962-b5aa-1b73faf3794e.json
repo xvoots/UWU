@@ -1351,6 +1351,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-10 00:59:24 +0000",
+      "minecraft:piglin": "2025-06-10 15:26:37 +0000",
       "minecraft:spider": "2025-06-08 17:30:50 +0000",
       "minecraft:zombie": "2025-06-08 03:08:49 +0000",
       "minecraft:creeper": "2025-06-08 17:54:27 +0000"
@@ -3442,6 +3443,30 @@
   "minekea:recipes/building_blocks/storage/compressed/sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-10 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/netherrack/1x": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
     },
     "done": true
   },
