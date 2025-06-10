@@ -569,3 +569,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [22:17:07] [Server thread/INFO]: [voicechat] Sent secret to xvoots
 [22:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [22:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3899ms or 77 ticks behind
+[22:47:34] [Server thread/INFO]: xvoots experienced kinetic energy
+[22:47:34] [Server thread/WARN]: xvoots moved wrongly!
+[22:49:51] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
+[22:49:51] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
+[22:49:51] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
+[22:53:30] [Server thread/INFO]: xvoots experienced kinetic energy
