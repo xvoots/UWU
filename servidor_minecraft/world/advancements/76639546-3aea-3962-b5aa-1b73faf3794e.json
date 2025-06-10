@@ -4092,12 +4092,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-06-10 19:10:39 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/mangrove_white_chair_pascal_carpentry": {
     "criteria": {
       "has_white_wool": "2025-06-10 19:10:34 +0000"
@@ -4110,12 +4104,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-06-10 19:10:39 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/oak_white_chair_pascal_carpentry": {
     "criteria": {
       "has_white_wool": "2025-06-10 19:10:34 +0000"
@@ -4125,12 +4113,6 @@
   "nemos-carpentry:recipes/decorations/warped_white_chair_pascal_carpentry": {
     "criteria": {
       "has_white_wool": "2025-06-10 19:10:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-06-10 19:10:39 +0000"
     },
     "done": true
   },
@@ -4233,6 +4215,24 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-10 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-10 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-10 19:10:39 +0000"
     },
     "done": true
   },
