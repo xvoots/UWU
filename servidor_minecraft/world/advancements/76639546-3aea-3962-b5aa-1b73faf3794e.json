@@ -3414,5 +3414,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-10 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-10 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-10 15:07:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
