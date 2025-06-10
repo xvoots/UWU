@@ -654,3 +654,17 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [06:24:41] [Server thread/INFO]: <Jeyysz> CTRL SHIFT Y S
 [06:25:39] [Server thread/INFO]: [Jeyysz: Set own game mode to Creative Mode]
 [06:29:47] [Server thread/INFO]: [Jeyysz: Set own game mode to Survival Mode]
+[06:54:42] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[06:54:42] [Server thread/INFO]: Jeyysz left the game
+[06:54:42] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
+[06:54:47] [Server thread/INFO]: Stopping the server
+[06:54:47] [Server thread/INFO]: Stopping server
+[06:54:47] [Server thread/INFO]: Saving players
+[06:54:47] [Server thread/INFO]: Saving worlds
+[06:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:overworld
+[06:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:the_nether
+[06:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:the_end
+[06:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
