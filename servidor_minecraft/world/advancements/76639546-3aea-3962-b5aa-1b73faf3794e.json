@@ -951,7 +951,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-08 02:27:09 +0000",
-      "rotten_flesh": "2025-06-08 02:18:37 +0000"
+      "rotten_flesh": "2025-06-08 02:18:37 +0000",
+      "potato": "2025-06-10 05:01:07 +0000"
     },
     "done": false
   },
@@ -3136,6 +3137,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-10 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/potato": {
+    "criteria": {
+      "has_potato": "2025-06-10 05:00:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-06-10 04:35:04 +0000"
@@ -3145,6 +3164,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-06-10 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-10 05:00:21 +0000"
     },
     "done": true
   },
@@ -3163,6 +3188,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-06-10 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-10 05:00:21 +0000"
     },
     "done": true
   },
