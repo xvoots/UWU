@@ -952,7 +952,8 @@
     "criteria": {
       "bread": "2025-06-08 02:27:09 +0000",
       "rotten_flesh": "2025-06-08 02:18:37 +0000",
-      "potato": "2025-06-10 05:01:07 +0000"
+      "potato": "2025-06-10 05:01:07 +0000",
+      "cooked_beef": "2025-06-10 14:06:54 +0000"
     },
     "done": false
   },
@@ -3230,6 +3231,186 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-10 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-10 14:10:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-06-10 14:11:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/quartz_block/1x": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-10 14:10:58 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-10 14:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-10 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/quartz_post": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 14:10:11 +0000"
     },
     "done": true
   },
