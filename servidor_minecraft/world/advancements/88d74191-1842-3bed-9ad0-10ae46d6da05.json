@@ -2469,7 +2469,9 @@
   },
   "adorn:everything": {
     "criteria": {
-      "has_candlelit_lantern": "2025-06-08 03:43:19 +0000"
+      "has_candlelit_lantern": "2025-06-08 03:43:19 +0000",
+      "has_sofa": "2025-06-10 05:40:03 +0000",
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": false
   },
@@ -6335,9 +6337,21 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/cyan_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6356,6 +6370,18 @@
   "nemos-carpentry:recipes/decorations/jungle_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6401,6 +6427,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/light_blue_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/tools/iron_saw": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6410,6 +6442,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6437,6 +6475,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/orange_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/beams/deepslate_brick": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
@@ -6446,6 +6490,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6485,6 +6535,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/white_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/furniture/shelves/floating/bamboo": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6494,6 +6550,12 @@
   "nemos-carpentry:recipes/decorations/crimson_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:platform": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6512,6 +6574,12 @@
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6548,6 +6616,18 @@
   "nemos-carpentry:recipes/decorations/acacia_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:sofa": {
+    "criteria": {
+      "has_sofa": "2025-06-10 05:40:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6593,6 +6673,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/gray_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6605,6 +6691,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/green_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/furniture/shelves/floating/crimson": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6614,6 +6706,12 @@
   "nemos-carpentry:recipes/decorations/cherry_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6749,6 +6847,12 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/yellow_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6773,6 +6877,12 @@
     },
     "done": true
   },
+  "adorn:chair": {
+    "criteria": {
+      "sit_on_chair": "2025-06-10 05:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
@@ -6782,6 +6892,12 @@
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_macaw_metal_reinforced_door": {
+    "criteria": {
+      "has_items": "2025-06-10 05:42:27 +0000"
     },
     "done": true
   },
@@ -6806,6 +6922,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
