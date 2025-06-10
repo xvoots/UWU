@@ -575,3 +575,26 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [22:49:51] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
 [22:49:51] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
 [22:53:30] [Server thread/INFO]: xvoots experienced kinetic energy
+[23:40:28] [Server thread/INFO]: xvoots lost connection: Timed out
+[23:40:28] [Server thread/INFO]: xvoots left the game
+[23:40:28] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[23:40:28] [Server thread/WARN]: handleDisconnection() called twice
+[23:40:53] [Thread-98/WARN]: Failed to fetch skin: not found
+[23:41:05] [Server thread/INFO]: xvoots[/127.96.171.213:55329] logged in with entity id 15337 at (-63.901041960322026, 61.74999457782305, 479.2156950903983)
+[23:41:05] [Server thread/INFO]: Loading config from file...
+[23:41:05] [Server thread/INFO]: xvoots joined the game
+[23:41:05] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[23:41:05] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[23:41:35] [Server thread/INFO]: xvoots lost connection: Timed out
+[23:41:35] [Server thread/INFO]: xvoots left the game
+[23:41:35] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[23:41:35] [Server thread/WARN]: handleDisconnection() called twice
+[23:43:38] [Thread-101/WARN]: Failed to fetch skin: not found
+[23:43:43] [Server thread/INFO]: xvoots[/127.96.171.213:36021] logged in with entity id 15545 at (-63.901041960322026, 61.74999457782305, 479.2156950903983)
+[23:43:43] [Server thread/INFO]: Loading config from file...
+[23:43:43] [Server thread/INFO]: xvoots joined the game
+[23:43:44] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[23:43:44] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[23:51:44] [Server thread/INFO]: xvoots lost connection: Timed out
+[23:51:44] [Server thread/INFO]: xvoots left the game
+[23:51:44] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
