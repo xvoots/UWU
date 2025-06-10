@@ -6326,9 +6326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/furniture/bookshelves/nether_brick": {
     "criteria": {
       "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-10 06:02:32 +0000"
     },
     "done": true
   },
@@ -6383,6 +6395,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -6476,9 +6494,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/building_blocks/magenta_platform_from_dyeing": {
     "criteria": {
       "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -6491,6 +6527,12 @@
   "nemos-carpentry:recipes/decorations/mangrove_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -6515,6 +6557,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -6644,6 +6692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/tools/tools/wrench": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6677,6 +6731,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -6854,6 +6914,12 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/slabs/vertical/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-10 05:30:36 +0000"
@@ -6974,9 +7040,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7040,6 +7118,12 @@
     },
     "done": true
   },
+  "adorn:recipes/tuff_post": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/furniture/shelves/floating/crimson": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -7082,6 +7166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-10 05:30:36 +0000"
@@ -7112,9 +7202,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/furniture/display_cases/stripped/dark_oak": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7142,9 +7244,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/slabs/vertical/deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/tuff/1x": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7166,9 +7286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7292,6 +7424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-10 05:30:36 +0000"
@@ -7325,6 +7463,12 @@
   "scuro_furniture:recipes/misc/stripped_dark_oak_log_bedside_drawer_case": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
