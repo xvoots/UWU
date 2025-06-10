@@ -6278,9 +6278,9 @@
     },
     "done": true
   },
-  "nemos-carpentry:recipes/decorations/bamboo_barrel_seat_carpentry": {
+  "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
-      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+      "has_iron": "2025-06-10 04:21:39 +0000"
     },
     "done": true
   },
@@ -6293,6 +6293,132 @@
   "mcwbridges:recipes/deepslate_brick_bridge": {
     "criteria": {
       "has_planks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/deepslate_bricks/1x": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_brick_post": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/bamboo_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6314,75 +6440,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/covers/nether_brick": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/misc/containers/crates/dark_oak": {
-    "criteria": {
-      "has_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/bookshelves/nether_brick": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-10 06:02:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_pillar_trim": {
-    "criteria": {
-      "has_quartz_pillar_trim": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/vertical/deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/deepslate_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
@@ -6392,69 +6452,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/vertical/tuff": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/cyan_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/dark_oak_chair_gregory_carpentry": {
-    "criteria": {
-      "has_logs": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/brown_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
     },
     "done": true
   },
@@ -6476,81 +6476,15 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/white_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/black_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_slab": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/magenta_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/dark_oak_chair_lukas_natural_carpentry": {
-    "criteria": {
-      "has_logs": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-06-10 06:49:42 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/mangrove_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
     },
     "done": true
   },
@@ -6566,69 +6500,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:post": {
-    "criteria": {
-      "has_post": "2025-06-10 05:51:39 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/general/framed_planks/dark_oak_stripped": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/tables/stripped_dark_oak": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/light_blue_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/vertical/nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
     },
     "done": true
   },
@@ -6638,39 +6512,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/stairs/vertical/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/vertical/nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_dark_oak": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/light_gray_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -6680,39 +6524,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/compressed/quartz_block/1x": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/tools/tools/wrench": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_dark_oak": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
@@ -6722,93 +6536,15 @@
     },
     "done": true
   },
-  "adorn:recipes/nether_brick_post": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/granite_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_stairs": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/orange_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/beams/deepslate_brick": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/beams/nether_brick": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/dark_oak_chair_tommy_natural_carpentry": {
-    "criteria": {
-      "has_logs": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/blue_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
     },
     "done": true
   },
@@ -6824,63 +6560,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/compressed/deepslate_bricks/1x": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/beams/quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/white_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/compressed/quartz_bricks/1x": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/covers/quartz_brick": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/bookshelves/quartz_brick": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-06-10 06:49:42 +0000"
     },
     "done": true
   },
@@ -6896,57 +6578,9 @@
     },
     "done": true
   },
-  "adorn:platform": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/covers/deepslate_brick": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/black_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/nether_brick_chimney_from_block": {
-    "criteria": {
-      "has_key_item_0": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/vertical/tuff": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/red_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/shutters/stripped_dark_oak": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
@@ -6956,33 +6590,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/beams/quartz_brick": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/vertical/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/stripped_dark_oak_log_medical_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/dark_oak_coffee_table_carpentry": {
-    "criteria": {
-      "has_logs": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
@@ -7004,27 +6614,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/acacia_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:sofa": {
-    "criteria": {
-      "has_sofa": "2025-06-10 05:40:03 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/lime_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -7052,21 +6644,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7082,18 +6662,6 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/diorite_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/gray_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -7103,36 +6671,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/green_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/compressed/light_blue_terracotta/8x_from_compressed": {
-    "criteria": {
-      "has_building/compressed/light_blue_terracotta/9x": "2025-06-10 05:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/covers/quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/tuff_post": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7148,24 +6686,6 @@
     },
     "done": true
   },
-  "adorn:recipes/building_blocks/pink_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/bookshelves/deepslate_brick": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/deepslate_brick_post": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-06-10 05:30:36 +0000"
@@ -7178,21 +6698,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-10 05:48:47 +0000"
     },
     "done": true
   },
@@ -7202,33 +6710,9 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/tuff_stripped_dark_oak_log_kitchen_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/furniture/shelves/floating/warped": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/display_cases/stripped/dark_oak": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7244,39 +6728,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/vertical/deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/beams/tuff": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/compressed/tuff/1x": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7286,33 +6740,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_smithing": {
-    "criteria": {
-      "has_iron": "2025-06-10 04:21:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_wall": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
@@ -7328,27 +6758,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
     },
     "done": true
   },
@@ -7358,33 +6770,9 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/stripped_dark_oak_log_single_drawer_case": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_corner_trim": {
-    "criteria": {
-      "has_quartz_corner_trim": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/yellow_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
     },
     "done": true
   },
@@ -7394,27 +6782,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/compressed/nether_bricks/1x": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
     },
     "done": true
   },
@@ -7424,33 +6794,9 @@
     },
     "done": true
   },
-  "adorn:chair": {
-    "criteria": {
-      "sit_on_chair": "2025-06-10 05:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-06-10 06:14:07 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-10 05:30:36 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_macaw_metal_reinforced_door": {
-    "criteria": {
-      "has_items": "2025-06-10 05:42:27 +0000"
     },
     "done": true
   },
@@ -7460,15 +6806,399 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/stripped_dark_oak_log_kitchen_cabinet_case": {
+  "onlyexcavators:recipes/tools/iron_excavator": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:platform": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_platform_from_dyeing": {
+    "criteria": {
+      "has_platform": "2025-06-10 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:sofa": {
+    "criteria": {
+      "has_sofa": "2025-06-10 05:40:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:chair": {
+    "criteria": {
+      "sit_on_chair": "2025-06-10 05:41:16 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_macaw_metal_reinforced_door": {
+    "criteria": {
+      "has_items": "2025-06-10 05:42:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/light_blue_terracotta/8x_from_compressed": {
+    "criteria": {
+      "has_building/compressed/light_blue_terracotta/9x": "2025-06-10 05:46:52 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/nether_brick": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/nether_brick": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/nether_brick_post": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/nether_brick": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/nether_brick_chimney_from_block": {
+    "criteria": {
+      "has_key_item_0": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/nether_bricks/1x": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/misc/containers/crates/dark_oak": {
+    "criteria": {
+      "has_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_stripped_dark_oak_log_kitchen_drawer_case": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
-  "adorn:recipes/quartz_post": {
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_gregory_carpentry": {
     "criteria": {
-      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+      "has_logs": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_lukas_natural_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/general/framed_planks/dark_oak_stripped": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/tables/stripped_dark_oak": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_dark_oak": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_dark_oak": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_tommy_natural_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/stripped_dark_oak": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_medical_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_coffee_table_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/stripped/dark_oak": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_single_drawer_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_kitchen_cabinet_case": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-10 05:49:18 +0000"
     },
     "done": true
   },
@@ -7478,33 +7208,303 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/quartz_block/1x": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/quartz_post": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 05:50:56 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/quartz_bricks/1x": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/quartz_brick": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/quartz_brick": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/quartz_brick": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:post": {
+    "criteria": {
+      "has_post": "2025-06-10 05:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-10 06:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/tuff_post": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/tuff/1x": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 06:14:07 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/covers/tuff": {
     "criteria": {
       "has_tuff": "2025-06-10 06:14:07 +0000"
     },
     "done": true
   },
-  "onlyexcavators:recipes/tools/iron_excavator": {
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
-      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+      "has_kitchen_hood_pipe": "2025-06-10 06:49:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/building_blocks/purple_platform_from_dyeing": {
-    "criteria": {
-      "has_platform": "2025-06-10 05:39:55 +0000"
+      "has_kitchen_hood": "2025-06-10 06:49:42 +0000"
     },
     "done": true
   },

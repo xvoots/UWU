@@ -561,3 +561,12 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [14:35:28] [Server thread/INFO]: [voicechat] Sent secret to xvoots
 [14:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
 [14:47:23] [Server thread/INFO]: xvoots was slain by Spider
+[15:01:02] [Server thread/INFO]: xvoots was slain by Zombie
+[15:01:26] [Server thread/INFO]: Jeyysz[/127.42.148.235:35231] logged in with entity id 7661 at (-202.8272087032581, 72.0, 493.7694505326253)
+[15:01:26] [Server thread/INFO]: Loading config from file...
+[15:01:26] [Server thread/INFO]: Jeyysz joined the game
+[15:01:30] [Server thread/INFO]: [voicechat] Received secret request of Jeyysz (18)
+[15:01:30] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
+[15:01:43] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[15:01:43] [Server thread/INFO]: Jeyysz left the game
+[15:01:43] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
