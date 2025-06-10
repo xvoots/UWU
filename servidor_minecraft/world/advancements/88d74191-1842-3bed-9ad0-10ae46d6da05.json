@@ -5560,6 +5560,30 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_park_bench_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-10 03:54:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
@@ -5572,9 +5596,69 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/beams/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_tommy_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/acacia": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/spruce_planks": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/beams/polished_blackstone": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/bamboo": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/dark_oak": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
     },
     "done": true
   },
@@ -5590,9 +5674,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_felix_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/birch": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
     },
     "done": true
   },
@@ -5602,9 +5722,51 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_post": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
@@ -5614,9 +5776,27 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/armoires/warped": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/covers/polished_blackstone": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
@@ -5626,9 +5806,21 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/tables/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
@@ -5638,15 +5830,75 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/covers/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/shutters/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/crimson": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_ladder_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_table_the_classic_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_lukas_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
@@ -5668,9 +5920,57 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/seating/stools/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/spruce_planks/1x": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/jungle": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/slabs/vertical/polished_blackstone": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/cherry": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_barrel_seat_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
@@ -5680,9 +5980,93 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/general/framed_planks/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/compressed/polished_blackstone/1x": {
     "criteria": {
       "has_polished_blackstone": "2025-06-10 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/mangrove": {
+    "criteria": {
+      "has_chest": "2025-06-10 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-10 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-10 03:54:34 +0000"
     },
     "done": true
   },
