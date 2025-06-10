@@ -950,8 +950,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-10 19:11:22 +0000",
       "bread": "2025-06-08 02:27:09 +0000",
       "rotten_flesh": "2025-06-08 02:18:37 +0000",
+      "cooked_mutton": "2025-06-10 19:10:41 +0000",
       "potato": "2025-06-10 05:01:07 +0000",
       "cooked_beef": "2025-06-10 14:06:54 +0000",
       "baked_potato": "2025-06-10 15:14:07 +0000"
@@ -1350,6 +1352,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-10 18:39:37 +0000",
       "minecraft:skeleton": "2025-06-10 00:59:24 +0000",
       "minecraft:piglin": "2025-06-10 15:26:37 +0000",
       "minecraft:spider": "2025-06-08 17:30:50 +0000",
@@ -3417,18 +3420,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-06-10 15:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-10 15:36:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-10 15:07:10 +0000"
@@ -3441,15 +3432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+  "minekea:recipes/building_blocks/storage/compressed/sugar_cane": {
     "criteria": {
-      "has_blackstone": "2025-06-10 15:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-10 15:36:43 +0000"
+      "has_sugar_cane": "2025-06-10 15:07:10 +0000"
     },
     "done": true
   },
@@ -3462,6 +3447,60 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-06-10 15:14:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-10 15:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/netherrack": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/netherrack/1x": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 15:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-10 15:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-10 15:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-10 15:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-10 15:36:43 +0000"
     },
     "done": true
   },
@@ -3486,12 +3525,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-10 15:36:43 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/storage/compressed/sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-10 15:07:10 +0000"
     },
     "done": true
   },
@@ -3531,51 +3564,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-10 15:26:55 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/beams/netherrack": {
-    "criteria": {
-      "has_netherrack": "2025-06-10 15:26:55 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/building/beams/blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-10 15:36:43 +0000"
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/covers/netherrack": {
-    "criteria": {
-      "has_netherrack": "2025-06-10 15:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-10 15:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/compressed/netherrack/1x": {
-    "criteria": {
-      "has_netherrack": "2025-06-10 15:26:55 +0000"
     },
     "done": true
   },
@@ -3651,9 +3648,591 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:recipes/misc/quartz": {
     "criteria": {
-      "has_baked_potato": "2025-06-10 15:14:05 +0000"
+      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_cherry_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_crimson_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_mangrove_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_jungle_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_birch_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/polished_andesite/1x": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_mosaic_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_post": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_bamboo_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_acacia_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/polished_andesite": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/andesite_stripped_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-10 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-10 17:08:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-10 17:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-10 17:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/deepslate_bricks/1x": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/deepslate_brick": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_brick_post": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-10 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-10 18:04:38 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/birch_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/jungle_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-10 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/mangrove_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/cherry_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-10 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-10 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/pillows/white": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/crimson_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "adorn:root": {
+    "criteria": {
+      "has_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/bamboo_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/white_barber_chair_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/white_bar_chair_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/acacia_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 19:10:34 +0000"
     },
     "done": true
   },

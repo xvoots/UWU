@@ -1383,9 +1383,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "spider_eye": "2025-06-10 18:39:04 +0000",
       "cooked_chicken": "2025-06-09 02:38:01 +0000",
+      "rotten_flesh": "2025-06-10 17:28:01 +0000",
       "cooked_beef": "2025-06-08 03:18:48 +0000",
-      "baked_potato": "2025-06-10 15:57:47 +0000"
+      "baked_potato": "2025-06-10 15:57:47 +0000",
+      "carrot": "2025-06-10 19:16:14 +0000"
     },
     "done": false
   },
@@ -2471,8 +2474,11 @@
   },
   "adorn:everything": {
     "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000",
+      "has_coffee_table": "2025-06-10 18:15:38 +0000",
       "has_candlelit_lantern": "2025-06-08 03:43:19 +0000",
       "has_post": "2025-06-10 05:51:39 +0000",
+      "has_shelf": "2025-06-10 18:24:54 +0000",
       "has_sofa": "2025-06-10 05:40:03 +0000",
       "has_platform": "2025-06-10 05:39:55 +0000"
     },
@@ -7510,6 +7516,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-10 15:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-10 15:51:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-10 15:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-10 15:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-10 15:52:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
@@ -7522,21 +7594,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_warped_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/misc/containers/crates/warped": {
     "criteria": {
       "has_log": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7546,33 +7606,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_table": {
-    "criteria": {
-      "has_warped_table": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "scuro_furniture:recipes/misc/diorite_warped_stem_kitchen_drawer_case": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7600,24 +7636,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_chair": {
-    "criteria": {
-      "has_warped_chair": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/warped_stem_seat_carpentry": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
@@ -7627,12 +7645,6 @@
   "minekea:recipes/building_blocks/building/beams/warped_stem": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_dining_bench": {
-    "criteria": {
-      "has_warped_dining_bench": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7648,81 +7660,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_couch": {
-    "criteria": {
-      "has_warped_couch": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/black_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/compressed/warped_planks/1x": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/display_cases/stripped/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-06-10 15:51:02 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_table_the_classic_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/tuff_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/bookshelves/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/warped_chair_tommy_natural_carpentry": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/deepslate_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/vertical/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7738,51 +7678,9 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/white_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_ladder_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/warped_kitchen_cabinet_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_chair_lukas_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7798,87 +7696,15 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/beams/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_drawer": {
-    "criteria": {
-      "has_warped_drawer": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/warped_chair_gregory_carpentry": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
     },
     "done": true
   },
-  "adorn:recipes/warped_kitchen_cupboard": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_chair_felix_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-06-10 15:46:50 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/warped_standing_table_carpentry": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/warped_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/containers/barrels/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/shutters/stripped_warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7900,27 +7726,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "scuro_furniture:recipes/misc/deepslate_warped_stem_kitchen_drawer_case": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_side_table": {
-    "criteria": {
-      "has_warped_side_table": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -7930,87 +7738,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/warped_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_mystic": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_pillar_trim": {
-    "criteria": {
-      "has_warped_pillar_trim": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_desk": {
-    "criteria": {
-      "has_warped_desk": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_corner_trim": {
-    "criteria": {
-      "has_warped_corner_trim": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/covers/warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-06-10 15:52:50 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_chair_tommy_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_counter": {
-    "criteria": {
-      "has_warped_counter": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-06-10 15:52:50 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/diorite_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "scuro_furniture:recipes/misc/warped_stem_medical_drawer_case": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/warped_post": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -8026,57 +7762,15 @@
     },
     "done": true
   },
-  "scuro_furniture:recipes/misc/warped_medical_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/vertical/warped_planks": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/general/framed_planks/warped_stripped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "nemos-carpentry:recipes/decorations/warped_chair_lukas_natural_carpentry": {
     "criteria": {
       "has_logs": "2025-06-10 15:56:40 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_shelf": {
-    "criteria": {
-      "has_warped_shelf": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/furniture/tables/stripped_warped": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "scuro_furniture:recipes/misc/warped_stem_kitchen_cabinet_case": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_chair_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -8104,33 +7798,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/furniture/shutters/warped": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_cupboard": {
-    "criteria": {
-      "has_warped_cupboard": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/furniture/seating/chairs/warped": {
     "criteria": {
       "has_warped_stem": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "scuro_furniture:recipes/misc/granite_warped_kitchen_drawer_case": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -8149,18 +7825,6 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-06-10 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-06-10 15:56:42 +0000"
-    },
-    "done": true
-  },
-  "nemos-carpentry:recipes/decorations/warped_park_bench_carpentry": {
-    "criteria": {
-      "has_warped_planks": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
@@ -8188,21 +7852,1275 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/warped_planks/1x": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/stripped/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_table_the_classic_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_ladder_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/warped_kitchen_cabinet_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_chair_lukas_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_chair_felix_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/containers/barrels/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/stripped_warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_chair_tommy_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_post": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/warped_medical_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/warped_planks": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/general/framed_planks/warped_stripped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/tables/stripped_warped": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_chair_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_warped_kitchen_drawer_case": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_park_bench_carpentry": {
+    "criteria": {
+      "has_warped_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-10 15:56:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-10 15:51:02 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/warped_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-06-10 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-06-10 16:47:51 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_wood": "2025-06-10 16:47:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/set_of_eggs": {
+    "criteria": {
+      "has_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-10 16:47:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/polished_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_bamboo_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_crimson_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_mangrove_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/polished_diorite/1x": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_bamboo_mosaic_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_birch_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_cherry_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/polished_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/polished_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/polished_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_diorite_post": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_acacia_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/polished_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_jungle_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-10 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-10 18:02:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/deepslate/1x": {
+    "criteria": {
+      "has_deepslate": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/deepslate/2x": {
+    "criteria": {
+      "has_building/compressed/deepslate/1x": "2025-06-10 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/black_concrete/1x": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_warped_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_bamboo_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_cherry_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_crimson_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/black_concrete": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/deepslate_from_compressed": {
+    "criteria": {
+      "has_building/compressed/deepslate/1x": "2025-06-10 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:table": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/gray_concrete": {
+    "criteria": {
+      "has_gray_concrete": "2025-06-10 18:41:33 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/gray_concrete": {
+    "criteria": {
+      "has_gray_concrete": "2025-06-10 18:41:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-10 18:46:33 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-10 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_cherry_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_birch_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-10 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_crimson_stem_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_birch_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_acacia_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_bamboo_mosaic_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/black_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-06-10 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2025-06-10 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/black_concrete": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_post": {
+    "criteria": {
+      "has_deepslate": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_bamboo_block_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/sea_lantern_slab": {
+    "criteria": {
+      "has_wood": "2025-06-10 18:28:15 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2025-06-10 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-06-10 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_mangrove_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/gray_concrete/1x": {
+    "criteria": {
+      "has_gray_concrete": "2025-06-10 18:41:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_mangrove_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_jungle_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_table_from_dyeing": {
+    "criteria": {
+      "has_table": "2025-06-10 18:15:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_shelf_from_dyeing": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_acacia_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:coffee_table": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-10 18:46:33 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_jungle_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_black_concrete": "2025-06-10 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_coffee_table_from_dyeing": {
+    "criteria": {
+      "has_coffee_table": "2025-06-10 18:15:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:shelf": {
+    "criteria": {
+      "has_shelf": "2025-06-10 18:24:54 +0000"
     },
     "done": true
   },
