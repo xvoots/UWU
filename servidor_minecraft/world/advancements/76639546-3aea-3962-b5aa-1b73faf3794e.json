@@ -3352,7 +3352,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-10 14:10:58 +0000"
+      "minecraft:nether_wastes": "2025-06-10 14:10:58 +0000",
+      "minecraft:warped_forest": "2025-06-10 15:55:54 +0000"
     },
     "done": false
   },
@@ -3554,9 +3555,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-10 15:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-10 15:53:18 +0000"
     },
     "done": true
   },
