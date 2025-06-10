@@ -6524,6 +6524,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-10 06:49:42 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/mangrove_barrel_seat_carpentry": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 05:30:36 +0000"
@@ -6869,6 +6875,12 @@
   "minekea:recipes/building_blocks/furniture/bookshelves/quartz_brick": {
     "criteria": {
       "has_quartz_bricks": "2025-06-10 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-10 06:49:42 +0000"
     },
     "done": true
   },
