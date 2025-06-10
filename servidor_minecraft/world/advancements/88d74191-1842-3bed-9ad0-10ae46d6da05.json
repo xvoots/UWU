@@ -6275,6 +6275,12 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/bamboo_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
@@ -6287,9 +6293,39 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/birch": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/stairs/vertical/deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6299,9 +6335,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/jungle_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/mangrove_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6311,15 +6401,75 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/tools/iron_saw": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/tools/tools/wrench": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/beams/deepslate_brick": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
     },
     "done": true
   },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/cherry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/compressed/deepslate_bricks/1x": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6335,6 +6485,18 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/bamboo": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/crimson_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
@@ -6344,6 +6506,114 @@
   "minekea:recipes/building_blocks/building/covers/deepslate_brick": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/acacia_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/oak": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/dark_oak": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/jungle": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/crimson": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/cherry_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6359,15 +6629,69 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/warped": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/birch_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/slabs/vertical/deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/acacia": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6383,9 +6707,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/mangrove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
@@ -6395,9 +6767,33 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/dark_oak_barrel_seat_carpentry": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-10 04:48:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/iron_stuff": {
+    "criteria": {
+      "has_wood": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
+    },
+    "done": true
+  },
+  "onlyexcavators:recipes/tools/iron_excavator": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-10 05:30:36 +0000"
     },
     "done": true
   },
