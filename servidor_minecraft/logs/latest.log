@@ -569,3 +569,33 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [00:51:48] [Server thread/INFO]: Jeyysz joined the game
 [00:51:51] [Server thread/INFO]: [voicechat] Received secret request of Jeyysz (18)
 [00:51:51] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
+[00:53:32] [Server thread/INFO]: <xvoots> perra
+[00:53:45] [Server thread/INFO]: <xvoots> una foto pa tu ex
+[00:53:49] [Server thread/INFO]: <xvoots> no mejor un video
+[00:53:52] [Server thread/INFO]: <xvoots> muerete
+[00:53:56] [Server thread/INFO]: <xvoots> ahhhh ahhh ahhh ahhh
+[00:54:17] [Server thread/INFO]: <xvoots> cerre el codespace
+[00:54:26] [Server thread/INFO]: <Jeyysz> map
+[00:54:27] [Server thread/INFO]: <Jeyysz> no
+[00:54:48] [Server thread/INFO]: <xvoots> lo deje abielto entonce
+[00:54:52] [Server thread/INFO]: <Jeyysz> chi
+[00:55:12] [Server thread/WARN]: xvoots moved too quickly! 9.623213043141078,2.8475160131293222,3.9281901570664104
+[00:55:16] [Server thread/WARN]: xvoots was kicked for floating too long!
+[00:55:16] [Server thread/INFO]: xvoots lost connection: Flying is not enabled on this server
+[00:55:16] [Server thread/INFO]: xvoots left the game
+[00:55:16] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[00:55:26] [Thread-75/WARN]: Failed to fetch skin: not found
+[00:55:41] [Server thread/INFO]: xvoots[/127.96.171.213:35463] logged in with entity id 4715 at (-225.34787465951516, 74.71688177491778, 491.2847894239766)
+[00:55:41] [Server thread/INFO]: Loading config from file...
+[00:55:41] [Server thread/INFO]: xvoots joined the game
+[00:55:42] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[00:55:42] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[00:56:10] [Server thread/INFO]: <xvoots> soy gay
+[00:56:11] [Server thread/INFO]: xvoots lost connection: Timed out
+[00:56:11] [Server thread/INFO]: xvoots left the game
+[00:56:11] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[00:58:03] [Server thread/INFO]: [Jeyysz: Set own game mode to Creative Mode]
+[00:58:37] [Server thread/INFO]: [Jeyysz: Set own game mode to Survival Mode]
+[01:01:39] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[01:01:39] [Server thread/INFO]: Jeyysz left the game
+[01:01:39] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
