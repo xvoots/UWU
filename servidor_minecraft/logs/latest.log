@@ -565,3 +565,4 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [15:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4336ms or 86 ticks behind
 [15:42:32] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
 [15:42:32] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[16:11:39] [Server thread/INFO]: xvoots was slain by Piglin
