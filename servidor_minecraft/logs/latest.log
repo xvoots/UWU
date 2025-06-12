@@ -670,3 +670,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [05:27:53] [Server thread/INFO]: xvoots lost connection: Disconnected
 [05:27:53] [Server thread/INFO]: xvoots left the game
 [05:27:53] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[05:34:50] [Server thread/INFO]: Jeyysz was slain by Zombie
+[05:34:50] [Server thread/INFO]: Created new backpack backup file for Jeyysz with unique ID travelersbackpack.iron_12.06.2025-05.34.50.dat
+[05:34:50] [Server thread/INFO]: Created new backpack backup file for Jeyysz with unique ID travelersbackpack.iron_12.06.2025-05.34.50.dat
+[05:34:50] [Server thread/INFO]: Your backpack has been placed at X: -248 Y: 72 Z: 511
