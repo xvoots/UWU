@@ -1,20 +1,20 @@
-[03:25:06] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[03:25:06] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[04:28:38] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[04:28:40] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[03:25:07] [ForkJoinPool-1-worker-1/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+[04:28:44] [ForkJoinPool-1-worker-2/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 27 column 4
 - Unsupported root entry "" at line 27 column 198
 - Unsupported root entry "" at line 29 column 4
 - Unsupported root entry "" at line 29 column 24
-[03:25:07] [ForkJoinPool-1-worker-1/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+[04:28:46] [ForkJoinPool-1-worker-2/WARN]: The mod "betterstats" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 26 column 4
 - Unsupported root entry "" at line 26 column 124
 - Unsupported root entry "" at line 28 column 4
 - Unsupported root entry "" at line 28 column 24
-[03:25:07] [main/WARN]: Warnings were found!
+[04:28:47] [main/WARN]: Warnings were found!
  - Mod 'Minekea' (minekea) 7.1.0 recommends version 1.21-87 or later of patchouli, which is missing!
 	 - You should install version 1.21-87 or later of patchouli for the optimal experience.
-[03:25:07] [main/INFO]: Loading 172 mods:
+[04:28:47] [main/INFO]: Loading 172 mods:
 	- adorn 6.0.3+1.21.1
 	- alternate-current 1.9.0
 	- architectury 13.0.8
@@ -202,107 +202,107 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[03:25:07] [main/WARN]: Found 4 non-fabric mods:
+[04:28:47] [main/WARN]: Found 4 non-fabric mods:
 	- evenbetternether-1.3.0-neoforge-1.21.1.jar
 	- minecolonies-1.1.984-1.21.1-snapshot.jar
 	- ForgeConfigAPIPort-v21.1.3-1.21.1-Forge.jar
 	- herios_floral_expansion-1.1.2-neoforge-1.21.1.jar
-[03:25:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/UWU/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:25:08] [main/INFO]: Compatibility level set to JAVA_16
-[03:25:08] [main/INFO]: Compatibility level set to JAVA_21
-[03:25:08] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:08] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:08] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:09] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[03:25:09] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[03:25:09] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[03:25:09] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[03:25:09] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[03:25:09] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[03:25:09] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[03:25:09] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[03:25:09] [main/INFO]: Loaded configuration file for ModernFix 5.19.3+mc1.21.1: 54 options available, 0 override(s) found
-[03:25:09] [main/INFO]: Applying Nashorn fix
-[03:25:09] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:10] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[03:25:10] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[03:25:10] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[03:25:10] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[03:25:10] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[03:25:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
-[03:25:10] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
-[03:25:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
-[03:25:10] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
-[03:25:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
-[03:25:10] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
-[03:25:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
-[03:25:10] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
-[03:25:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
-[03:25:10] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
-[03:25:10] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[03:25:10] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[03:25:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:25:16] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[03:25:22] [main/INFO]: Vanilla bootstrap took 10174 milliseconds
-[03:25:23] [main/INFO]: Loading Collective version 7.87.
-[03:25:23] [main/INFO]: YAaargh!
-[03:25:24] [main/INFO]: Loaded config farmersdelight-common.json
-[03:25:24] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
-[03:25:25] [main/ERROR]: No data fixer registered for handcrafted
-[03:25:25] [main/INFO]: Initializing JamLib on Fabric
-[03:25:25] [main/INFO]: Initializing ServerSide Packet Registries
-[03:25:26] [main/INFO]: Initializing server networking
-[03:25:26] [main/ERROR]: No data fixer registered for minekea:entities/mounts/seat
-[03:25:26] [main/INFO]: Initializing Fabric server networking
-[03:25:26] [main/INFO]: Registering villager points of interest
-[03:25:26] [main/INFO]: Definitely not up to no good
-[03:25:26] [main/INFO]: Thank you for using Nemo's Carpentry!
-[03:25:27] [main/INFO]: Registering entities
-[03:25:27] [main/INFO]: Thank you for using Nemo's Mossy Blocks!
-[03:25:27] [main/INFO]: Registering item groups
-[03:25:27] [main/INFO]: Hello!
-[03:25:27] [main/INFO]: [STDOUT]: registering mod blocks for nicemod
-[03:25:27] [main/INFO]: Loading Noisium.
-[03:25:27] [main/INFO]: [STDOUT]: All 10 have been set properly
-[03:25:27] [main/INFO]: Jello was 126 years old when we added this line
-[03:25:27] [main/INFO]: Constructing common components for puzzleslib:main
-[03:25:27] [main/INFO]: Updated config file at /workspaces/UWU/servidor_minecraft/config/rightclickharvest.json5
-[03:25:27] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[03:25:27] [main/INFO]: Registered 11 objects in MediumDrawersDoors
-[03:25:27] [main/INFO]: Registered 11 objects in MediumDrawersGlassDoors
-[03:25:27] [main/INFO]: Registered 11 objects in BigDrawersDoors
-[03:25:27] [main/INFO]: Registered 11 objects in SmallDrawersBoxes
-[03:25:27] [main/INFO]: Registered 11 objects in MediumDrawerBoxes
-[03:25:27] [main/INFO]: Registered 11 objects in BigDrawersBoxes
-[03:25:28] [main/INFO]: Registered 34 objects in MedicalDrawersCases
-[03:25:28] [main/INFO]: Registered 24 objects in BedsideDrawersCases
-[03:25:28] [main/INFO]: Registered 272 objects in KitchenDrawersCases
-[03:25:28] [main/INFO]: Registered 34 objects in KitchenCabinetCases
-[03:25:28] [main/INFO]: Registered 24 objects in SingleDrawerCases
-[03:25:30] [main/INFO]: Registered 0 objects in ModEntities
-[03:25:30] [main/INFO]: Registered 5 objects in ModBlockEntities
-[03:25:30] [main/INFO]: Registered 5 objects in ModScreenHandlers
-[03:25:30] [main/INFO]: Registered 2 objects in ModItemGroups
-[03:25:30] [main/INFO]: Foxes make 40 different sounds
-[03:25:30] [main/INFO]: [STDOUT]: Team Addoners Initializing
-[03:25:30] [main/ERROR]: No data fixer registered for 
-[03:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[03:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[03:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[03:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[03:25:31] [main/INFO]: [STDOUT]: TxniLib onInitialize!
-[03:25:31] [main/INFO]: [voicechat] Compatibility version 18
-[03:25:31] [main/INFO]: [voicechat] Loading plugins
-[03:25:31] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:25:31] [main/INFO]: [voicechat] Initializing plugins
-[03:25:31] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:25:31] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
-[03:25:31] [main/INFO]: Initializing 'TCD Commons API' 3.12.5+fabric-1.21 as 'TCDCommonsServer'.
-[03:25:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:25:35] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minekea:grant_book_on_first_join - No component with type: 'patchouli:book'; No component with type: 'patchouli:book' missed input: {"patchouli:book":"minekea:minekea_catalogue"}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: patchouli:guide_book
-[03:25:38] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_spruce_door_sawmill
+[04:28:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/UWU/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:28:51] [main/INFO]: Compatibility level set to JAVA_16
+[04:28:51] [main/INFO]: Compatibility level set to JAVA_21
+[04:28:52] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:28:52] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:28:52] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:28:52] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[04:28:52] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[04:28:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[04:28:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[04:28:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[04:28:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[04:28:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[04:28:52] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[04:28:53] [main/INFO]: Loaded configuration file for ModernFix 5.19.3+mc1.21.1: 54 options available, 0 override(s) found
+[04:28:53] [main/INFO]: Applying Nashorn fix
+[04:28:53] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:28:56] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[04:28:56] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[04:28:56] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[04:28:56] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[04:28:56] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[04:28:56] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
+[04:28:56] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
+[04:28:56] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[04:28:56] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
+[04:28:56] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[04:28:56] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
+[04:28:56] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
+[04:28:56] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
+[04:28:56] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
+[04:28:56] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
+[04:28:56] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[04:28:56] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[04:28:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:29:08] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[04:29:18] [main/INFO]: Vanilla bootstrap took 18524 milliseconds
+[04:29:19] [main/INFO]: Loading Collective version 7.87.
+[04:29:20] [main/INFO]: YAaargh!
+[04:29:21] [main/INFO]: Loaded config farmersdelight-common.json
+[04:29:22] [Cicada thread 0/INFO]: 'i showed you my huge tater pls respond'
+[04:29:23] [main/ERROR]: No data fixer registered for handcrafted
+[04:29:24] [main/INFO]: Initializing JamLib on Fabric
+[04:29:24] [main/INFO]: Initializing ServerSide Packet Registries
+[04:29:25] [main/INFO]: Initializing server networking
+[04:29:26] [main/ERROR]: No data fixer registered for minekea:entities/mounts/seat
+[04:29:26] [main/INFO]: Initializing Fabric server networking
+[04:29:26] [main/INFO]: Registering villager points of interest
+[04:29:26] [main/INFO]: Definitely not up to no good
+[04:29:26] [main/INFO]: Thank you for using Nemo's Carpentry!
+[04:29:26] [main/INFO]: Registering entities
+[04:29:26] [main/INFO]: Thank you for using Nemo's Mossy Blocks!
+[04:29:26] [main/INFO]: Registering item groups
+[04:29:26] [main/INFO]: Hello!
+[04:29:26] [main/INFO]: [STDOUT]: registering mod blocks for nicemod
+[04:29:26] [main/INFO]: Loading Noisium.
+[04:29:27] [main/INFO]: [STDOUT]: All 10 have been set properly
+[04:29:27] [main/INFO]: We don't have to worry about people re-inventing Venezuela glisco, that's their problem for integrating the Bourgeoisie into their pack
+[04:29:27] [main/INFO]: Constructing common components for puzzleslib:main
+[04:29:27] [main/INFO]: Updated config file at /workspaces/UWU/servidor_minecraft/config/rightclickharvest.json5
+[04:29:27] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[04:29:27] [main/INFO]: Registered 11 objects in MediumDrawersDoors
+[04:29:27] [main/INFO]: Registered 11 objects in MediumDrawersGlassDoors
+[04:29:28] [main/INFO]: Registered 11 objects in BigDrawersDoors
+[04:29:28] [main/INFO]: Registered 11 objects in SmallDrawersBoxes
+[04:29:28] [main/INFO]: Registered 11 objects in MediumDrawerBoxes
+[04:29:28] [main/INFO]: Registered 11 objects in BigDrawersBoxes
+[04:29:28] [main/INFO]: Registered 34 objects in MedicalDrawersCases
+[04:29:28] [main/INFO]: Registered 24 objects in BedsideDrawersCases
+[04:29:28] [main/INFO]: Registered 272 objects in KitchenDrawersCases
+[04:29:28] [main/INFO]: Registered 34 objects in KitchenCabinetCases
+[04:29:28] [main/INFO]: Registered 24 objects in SingleDrawerCases
+[04:29:30] [main/INFO]: Registered 0 objects in ModEntities
+[04:29:30] [main/INFO]: Registered 5 objects in ModBlockEntities
+[04:29:30] [main/INFO]: Registered 5 objects in ModScreenHandlers
+[04:29:30] [main/INFO]: Registered 2 objects in ModItemGroups
+[04:29:30] [main/INFO]: Foxes make 40 different sounds
+[04:29:30] [main/INFO]: [STDOUT]: Team Addoners Initializing
+[04:29:30] [main/ERROR]: No data fixer registered for 
+[04:29:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[04:29:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[04:29:32] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[04:29:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[04:29:32] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[04:29:32] [main/INFO]: [voicechat] Compatibility version 18
+[04:29:32] [main/INFO]: [voicechat] Loading plugins
+[04:29:32] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[04:29:32] [main/INFO]: [voicechat] Initializing plugins
+[04:29:32] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[04:29:32] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[04:29:33] [main/INFO]: Initializing 'TCD Commons API' 3.12.5+fabric-1.21 as 'TCDCommonsServer'.
+[04:29:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:29:40] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minekea:grant_book_on_first_join - No component with type: 'patchouli:book'; No component with type: 'patchouli:book' missed input: {"patchouli:book":"minekea:minekea_catalogue"}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: patchouli:guide_book
+[04:29:46] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_spruce_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -318,9 +318,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:38] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_mangrove_door_sawmill
+[04:29:46] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_mangrove_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -336,9 +336,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:38] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_jungle_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_jungle_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -354,9 +354,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_warped_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_warped_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -372,9 +372,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_cherry_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_cherry_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -390,9 +390,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe minekea:minekea_catalogue
+[04:29:47] [main/ERROR]: Parsing error loading recipe minekea:minekea_catalogue
 com.google.gson.JsonParseException: No component with type: 'patchouli:book'; No component with type: 'patchouli:book' missed input: {"patchouli:book":"minekea:minekea_catalogue"}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: patchouli:guide_book
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -408,9 +408,9 @@ com.google.gson.JsonParseException: No component with type: 'patchouli:book'; No
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_bamboo_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_bamboo_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -426,9 +426,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_birch_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_birch_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -444,9 +444,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_acacia_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_acacia_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -462,9 +462,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_oak_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_oak_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -480,9 +480,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_crimson_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_crimson_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -498,9 +498,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_dark_oak_door_sawmill
+[04:29:47] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_dark_oak_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
-	at knot/com.mojang.serialization.DataResult$Error.md732962$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md3583b3$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -516,78 +516,68 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[03:25:39] [main/INFO]: Loaded 15396 recipes
-[03:25:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
-[03:25:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
-[03:25:40] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
-[03:25:40] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
-[03:25:41] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
-[03:25:41] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
-[03:25:41] [main/INFO]: Loaded 13373 advancements
-[03:25:41] [main/INFO]: Applied 76 biome modifications to 40 of 64 new biomes in 24.38 ms
-[03:25:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:25:41] [Server thread/INFO]: Loading properties
-[03:25:41] [Server thread/INFO]: Default game type: SURVIVAL
-[03:25:41] [Server thread/INFO]: Generating keypair
-[03:25:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:25:42] [Server thread/INFO]: Using epoll channel type
-[03:25:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:25:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:25:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:25:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:25:42] [Server thread/INFO]: Preparing level "world"
-[03:25:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:25:43] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[03:25:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:25:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:25:44] [Server thread/INFO]: Time elapsed: 1043 ms
-[03:25:44] [Server thread/INFO]: Done (2.118s)! For help, type "help"
-[03:25:44] [Server thread/WARN]: Dedicated server took 40.142 seconds to load
-[03:25:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[03:25:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[03:25:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[03:25:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[03:25:44] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[03:25:44] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[03:25:44] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@2ea197fe for service interface journeymap.api.services.ClientPlatformService
-[03:25:44] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@5802ff3d for service interface journeymap.api.services.CommonPlatformService
-[03:25:44] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:25:44] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[03:25:54] [Thread-15/WARN]: Failed to fetch skin: not found
-[03:26:01] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[03:26:02] [Server thread/INFO]: xvoots[/127.96.171.213:51459] logged in with entity id 5 at (-266.3803103235347, 82.0, 526.4784952584905)
-[03:26:02] [Server thread/INFO]: Loading config from file...
-[03:26:02] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[03:26:02] [Server thread/INFO]: xvoots joined the game
-[03:26:03] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
-[03:26:03] [Server thread/INFO]: [voicechat] Sent secret to xvoots
-[03:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
-[03:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
-[03:27:58] [Server thread/WARN]: xvoots moved too quickly! 12.255596865056702,-1.4190479934764113,-13.577240240337943
-[03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
-[03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
-[03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
-[03:39:33] [Server thread/INFO]: xvoots lost connection: Timed out
-[03:39:33] [Server thread/INFO]: xvoots left the game
-[03:39:33] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
-[03:39:33] [Server thread/WARN]: handleDisconnection() called twice
-[03:39:59] [Thread-34/WARN]: Failed to fetch skin: not found
-[03:40:04] [Server thread/INFO]: xvoots[/127.227.153.241:51737] logged in with entity id 4712 at (46.61508150676794, 63.0, 305.99492163316677)
-[03:40:04] [Server thread/INFO]: Loading config from file...
-[03:40:04] [Server thread/INFO]: xvoots joined the game
-[03:40:05] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
-[03:40:05] [Server thread/INFO]: [voicechat] Sent secret to xvoots
-[03:40:34] [Server thread/INFO]: xvoots lost connection: Timed out
-[03:40:34] [Server thread/INFO]: xvoots left the game
-[03:40:34] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
-[03:41:26] [Thread-38/WARN]: Failed to fetch skin: not found
-[03:41:34] [Server thread/INFO]: xvoots[/127.227.153.241:53447] logged in with entity id 4902 at (46.61508150676794, 63.0, 305.99492163316677)
-[03:41:34] [Server thread/INFO]: Loading config from file...
-[03:41:34] [Server thread/INFO]: xvoots joined the game
-[03:41:35] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
-[03:41:35] [Server thread/INFO]: [voicechat] Sent secret to xvoots
-[03:43:25] [Server thread/INFO]: xvoots lost connection: Disconnected
-[03:43:25] [Server thread/INFO]: xvoots left the game
-[03:43:25] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
-[03:43:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:43:37] [Server thread/INFO]: s<--[HERE]
+[04:29:47] [main/INFO]: Loaded 15396 recipes
+[04:29:48] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[04:29:48] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[04:29:49] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[04:29:49] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[04:29:49] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[04:29:50] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[04:29:50] [main/INFO]: Loaded 13373 advancements
+[04:29:50] [main/INFO]: Applied 76 biome modifications to 40 of 64 new biomes in 32.49 ms
+[04:29:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:29:50] [Server thread/INFO]: Loading properties
+[04:29:50] [Server thread/INFO]: Default game type: SURVIVAL
+[04:29:50] [Server thread/INFO]: Generating keypair
+[04:29:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:29:51] [Server thread/INFO]: Using epoll channel type
+[04:29:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:29:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:29:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:29:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:29:51] [Server thread/INFO]: Preparing level "world"
+[04:29:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:29:53] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[04:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:29:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:29:54] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[04:29:55] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[04:29:55] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[04:29:55] [Server thread/INFO]: Time elapsed: 2663 ms
+[04:29:55] [Server thread/INFO]: Done (4.152s)! For help, type "help"
+[04:29:55] [Server thread/WARN]: Dedicated server took 88.636 seconds to load
+[04:29:56] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[04:29:56] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[04:29:56] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[04:29:56] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[04:29:56] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[04:29:56] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[04:29:56] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@39d651b9 for service interface journeymap.api.services.ClientPlatformService
+[04:29:56] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1e80f40f for service interface journeymap.api.services.CommonPlatformService
+[04:29:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04:29:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[04:30:13] [Thread-15/WARN]: Failed to fetch skin: not found
+[04:30:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@31070a6e[id=7cab18e1-8295-3bf2-8046-ab99cb9a2193,name=yeneciii,properties={}] lost connection: Disconnected
+[04:30:18] [Thread-16/WARN]: Failed to fetch skin: not found
+[04:30:24] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[04:30:24] [Server thread/INFO]: xvoots[/127.227.153.241:56381] logged in with entity id 5 at (-267.0705851426606, 84.0, 530.3817801359525)
+[04:30:24] [Server thread/INFO]: Loading config from file...
+[04:30:24] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[04:30:24] [Server thread/INFO]: xvoots joined the game
+[04:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04:30:26] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[04:30:26] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[04:30:32] [Thread-17/WARN]: Failed to fetch skin: not found
+[04:30:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b50842c[id=7cab18e1-8295-3bf2-8046-ab99cb9a2193,name=yeneciii,properties={}] lost connection: Disconnected
+[04:31:09] [Server thread/WARN]: xvoots moved too quickly! 6.308209893143257,-2.2516406363501886,-17.69048050291576
+[04:34:55] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[04:34:55] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[04:34:55] [Worker-Main-2/WARN]: Empty height range: [-55 absolute--60 absolute]
+[04:35:19] [Server thread/INFO]: Jeyysz[/127.42.148.235:33691] logged in with entity id 2430 at (-222.14183287540828, 72.0, 465.51607448992405)
+[04:35:19] [Server thread/INFO]: Loading config from file...
+[04:35:19] [Server thread/INFO]: Jeyysz joined the game
+[04:35:19] [Server thread/INFO]: [voicechat] Received secret request of Jeyysz (18)
+[04:35:19] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
+[04:36:42] [Server thread/INFO]: [Jeyysz: Set own game mode to Creative Mode]
+[04:38:17] [Server thread/INFO]: <xvoots> tu tiene la skin de cj e?
