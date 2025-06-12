@@ -603,3 +603,20 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [04:48:16] [Server thread/INFO]: [voicechat] Received secret request of yeneciii (18)
 [04:48:16] [Server thread/INFO]: [voicechat] Sent secret to yeneciii
 [04:48:17] [Server thread/INFO]: yeneciii was slain by Zombie
+[04:49:11] [Server thread/INFO]: yeneciii lost connection: Disconnected
+[04:49:11] [Server thread/INFO]: yeneciii left the game
+[04:49:11] [Server thread/INFO]: [voicechat] Disconnecting client yeneciii
+[04:50:26] [Thread-43/WARN]: Failed to fetch skin: not found
+[04:50:29] [Server thread/INFO]: yeneciii[/127.69.227.148:43679] logged in with entity id 6801 at (-7.5, 64.0, -1.5)
+[04:50:29] [Server thread/INFO]: Loading config from file...
+[04:50:29] [Server thread/INFO]: yeneciii joined the game
+[04:50:30] [Server thread/INFO]: [voicechat] Received secret request of yeneciii (18)
+[04:50:30] [Server thread/INFO]: [voicechat] Sent secret to yeneciii
+[04:51:46] [Server thread/INFO]: xvoots was slain by Piglin
+[04:51:48] [Server thread/INFO]: yeneciii lost connection: Disconnected
+[04:51:48] [Server thread/INFO]: yeneciii left the game
+[04:51:48] [Server thread/INFO]: [voicechat] Disconnecting client yeneciii
+[04:51:55] [Server thread/INFO]: <xvoots> diablo diablo diablazo
+[04:52:02] [Server thread/INFO]: <xvoots> ven loco ven
+[04:53:55] [Server thread/INFO]: xvoots was slain by Piglin
+[04:58:16] [Server thread/INFO]: xvoots was slain by Piglin
