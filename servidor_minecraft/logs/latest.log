@@ -567,3 +567,27 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
 [03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
 [03:28:00] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:39:33] [Server thread/INFO]: xvoots lost connection: Timed out
+[03:39:33] [Server thread/INFO]: xvoots left the game
+[03:39:33] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[03:39:33] [Server thread/WARN]: handleDisconnection() called twice
+[03:39:59] [Thread-34/WARN]: Failed to fetch skin: not found
+[03:40:04] [Server thread/INFO]: xvoots[/127.227.153.241:51737] logged in with entity id 4712 at (46.61508150676794, 63.0, 305.99492163316677)
+[03:40:04] [Server thread/INFO]: Loading config from file...
+[03:40:04] [Server thread/INFO]: xvoots joined the game
+[03:40:05] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[03:40:05] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[03:40:34] [Server thread/INFO]: xvoots lost connection: Timed out
+[03:40:34] [Server thread/INFO]: xvoots left the game
+[03:40:34] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[03:41:26] [Thread-38/WARN]: Failed to fetch skin: not found
+[03:41:34] [Server thread/INFO]: xvoots[/127.227.153.241:53447] logged in with entity id 4902 at (46.61508150676794, 63.0, 305.99492163316677)
+[03:41:34] [Server thread/INFO]: Loading config from file...
+[03:41:34] [Server thread/INFO]: xvoots joined the game
+[03:41:35] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[03:41:35] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[03:43:25] [Server thread/INFO]: xvoots lost connection: Disconnected
+[03:43:25] [Server thread/INFO]: xvoots left the game
+[03:43:25] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[03:43:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:43:37] [Server thread/INFO]: s<--[HERE]
