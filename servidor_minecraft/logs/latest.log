@@ -620,3 +620,44 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [04:52:02] [Server thread/INFO]: <xvoots> ven loco ven
 [04:53:55] [Server thread/INFO]: xvoots was slain by Piglin
 [04:58:16] [Server thread/INFO]: xvoots was slain by Piglin
+[05:00:28] [Server thread/INFO]: xvoots was slain by Piglin
+[05:01:21] [Thread-55/WARN]: Failed to fetch skin: not found
+[05:01:25] [Server thread/INFO]: yeneciii[/127.69.227.148:43373] logged in with entity id 10196 at (-7.5, 64.0, -1.5)
+[05:01:25] [Server thread/INFO]: Loading config from file...
+[05:01:25] [Server thread/INFO]: yeneciii joined the game
+[05:01:25] [Server thread/INFO]: [voicechat] Received secret request of yeneciii (18)
+[05:01:25] [Server thread/INFO]: [voicechat] Sent secret to yeneciii
+[05:02:01] [Server thread/INFO]: yeneciii lost connection: Disconnected
+[05:02:01] [Server thread/INFO]: yeneciii left the game
+[05:02:01] [Server thread/INFO]: [voicechat] Disconnecting client yeneciii
+[05:02:33] [Server thread/INFO]: xvoots was slain by Piglin
+[05:04:02] [Server thread/INFO]: <xvoots> ven lcoo ven
+[05:04:31] [Server thread/INFO]: xvoots was slain by Piglin
+[05:04:42] [Server thread/INFO]: xvoots lost connection: Timed out
+[05:04:42] [Server thread/INFO]: xvoots left the game
+[05:04:42] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[05:04:57] [Thread-59/WARN]: Failed to fetch skin: not found
+[05:05:17] [Server thread/INFO]: xvoots[/127.96.171.213:44011] logged in with entity id 11281 at (67.21525805265128, 79.0, 482.6747695807789)
+[05:05:17] [Server thread/INFO]: Loading config from file...
+[05:05:17] [Server thread/INFO]: xvoots joined the game
+[05:05:17] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[05:05:17] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[05:06:22] [Server thread/INFO]: <xvoots> xfs
+[05:06:53] [Server thread/INFO]: xvoots lost connection: Disconnected
+[05:06:53] [Server thread/INFO]: xvoots left the game
+[05:06:53] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[05:06:59] [Thread-63/WARN]: Failed to fetch skin: not found
+[05:07:12] [Server thread/INFO]: xvoots[/127.227.153.241:32781] logged in with entity id 11675 at (-53.058594410604435, 69.0, 495.4021507817598)
+[05:07:12] [Server thread/INFO]: Loading config from file...
+[05:07:12] [Server thread/INFO]: xvoots joined the game
+[05:07:12] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[05:07:12] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[05:07:42] [Server thread/INFO]: xvoots lost connection: Timed out
+[05:07:42] [Server thread/INFO]: xvoots left the game
+[05:07:42] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[05:07:51] [Thread-64/WARN]: Failed to fetch skin: not found
+[05:07:55] [Server thread/INFO]: xvoots[/127.96.171.213:33665] logged in with entity id 11860 at (-53.058594410604435, 69.0, 495.4021507817598)
+[05:07:55] [Server thread/INFO]: Loading config from file...
+[05:07:55] [Server thread/INFO]: xvoots joined the game
+[05:07:56] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[05:07:56] [Server thread/INFO]: [voicechat] Sent secret to xvoots
