@@ -674,3 +674,10 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [05:34:50] [Server thread/INFO]: Created new backpack backup file for Jeyysz with unique ID travelersbackpack.iron_12.06.2025-05.34.50.dat
 [05:34:50] [Server thread/INFO]: Created new backpack backup file for Jeyysz with unique ID travelersbackpack.iron_12.06.2025-05.34.50.dat
 [05:34:50] [Server thread/INFO]: Your backpack has been placed at X: -248 Y: 72 Z: 511
+[05:47:57] [Thread-99/WARN]: Failed to fetch skin: not found
+[05:48:00] [Server thread/INFO]: xvoots[/127.227.153.241:57753] logged in with entity id 17521 at (-242.09257217383185, 72.0, 513.596550436631)
+[05:48:00] [Server thread/INFO]: Loading config from file...
+[05:48:00] [Server thread/INFO]: xvoots joined the game
+[05:48:00] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[05:48:00] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[05:48:08] [Server thread/INFO]: xvoots was slain by Zombie
