@@ -4430,5 +4430,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-06-12 05:50:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
