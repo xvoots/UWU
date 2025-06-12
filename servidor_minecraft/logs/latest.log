@@ -666,3 +666,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [05:12:24] [Server thread/INFO]: xvoots was slain by Skeleton
 [05:13:42] [Server thread/INFO]: xvoots was slain by Skeleton
 [05:16:02] [Server thread/INFO]: <xvoots> dfvc
+[05:21:08] [Server thread/INFO]: <xvoots> compai
+[05:27:53] [Server thread/INFO]: xvoots lost connection: Disconnected
+[05:27:53] [Server thread/INFO]: xvoots left the game
+[05:27:53] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
