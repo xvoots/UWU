@@ -6181,5 +6181,672 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_post": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/stripped/oak": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stone_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/oak_planks": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/light_gray": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/general/framed_planks/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/white": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/green": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/misc/containers/crates/oak": {
+    "criteria": {
+      "has_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_oak_log_medical_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_coffee_table_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_oak": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_pascal_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stone_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_oak_log_single_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_oak_log_bedside_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_lukas_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_tommy_natural_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/gray": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_barrel_seat_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/ladder_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/pink": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/light_blue": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/oak_planks/1x": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_felix_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/tables/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/general/framed_planks/oak_stripped": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_bedside_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_oak": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/blue": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/lime": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_single_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_coffee_table_pascal_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/brown": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_table_the_classic_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_medical_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/red": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_tommy_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_park_bench_carpentry": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/yellow": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_lukas_natural_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-06-12 22:57:57 +0000",
+      "has_the_recipe": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/black": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/cyan": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/tables/stripped_oak": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_chair_gregory_carpentry": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/orange": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/stripped_oak": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/oak": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/purple": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_stripped_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_kitchen_cabinet_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/dyed/oak_planks/magenta": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_oak_log_kitchen_cabinet_case": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-06-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_planks": "2025-06-12 22:57:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
