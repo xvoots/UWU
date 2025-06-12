@@ -581,3 +581,25 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [04:35:19] [Server thread/INFO]: [voicechat] Sent secret to Jeyysz
 [04:36:42] [Server thread/INFO]: [Jeyysz: Set own game mode to Creative Mode]
 [04:38:17] [Server thread/INFO]: <xvoots> tu tiene la skin de cj e?
+[04:38:32] [Server thread/INFO]: <Jeyysz> si
+[04:40:17] [Server thread/INFO]: [Jeyysz: Set own game mode to Survival Mode]
+[04:42:40] [Server thread/INFO]: <Jeyysz> no hay materiale no bulto
+[04:42:48] [Server thread/INFO]: <xvoots> q falta
+[04:43:11] [Server thread/INFO]: <Jeyysz> eso
+[04:43:24] [Server thread/INFO]: <xvoots> dejame buscar en el nether
+[04:44:49] [Server thread/INFO]: <Jeyysz> quiero mete ma gente al server
+[04:44:55] [Server thread/INFO]: Jeyysz has made the advancement [Ol' Betsy]
+[04:45:10] [Server thread/INFO]: <xvoots> oh pero dale
+[04:45:17] [Server thread/INFO]: <xvoots> mientras sean tranquila
+[04:45:32] [Server thread/INFO]: <Jeyysz> ese e problema
+[04:46:19] [Server thread/INFO]: <xvoots> ven pal nether
+[04:46:36] [Server thread/INFO]: xvoots was slain by Piglin
+[04:47:00] [Thread-38/WARN]: Failed to fetch skin: not found
+[04:47:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@65439c5c[id=7cab18e1-8295-3bf2-8046-ab99cb9a2193,name=yeneciii,properties={}] lost connection: Timed out
+[04:48:00] [Thread-39/WARN]: Failed to fetch skin: not found
+[04:48:03] [Server thread/INFO]: yeneciii[/127.69.227.148:44003] logged in with entity id 6283 at (-7.5, 64.0, -1.5)
+[04:48:03] [Server thread/INFO]: Loading config from file...
+[04:48:03] [Server thread/INFO]: yeneciii joined the game
+[04:48:16] [Server thread/INFO]: [voicechat] Received secret request of yeneciii (18)
+[04:48:16] [Server thread/INFO]: [voicechat] Sent secret to yeneciii
+[04:48:17] [Server thread/INFO]: yeneciii was slain by Zombie

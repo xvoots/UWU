@@ -9142,27 +9142,9 @@
     },
     "done": true
   },
-  "minekea:recipes/building_blocks/building/slabs/bookshelves/vertical/polished_blackstone": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/furniture/shelves/supported/bamboo": {
     "criteria": {
       "has_iron_nugget": "2025-06-11 16:56:26 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/bookshelves/vertical/polished_blackstone_brick": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/bookshelves/polished_blackstone_brick": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
     },
     "done": true
   },
@@ -9172,45 +9154,9 @@
     },
     "done": true
   },
-  "dramaticdoors:recipes/redstone/tall_macaw_metal_door": {
-    "criteria": {
-      "has_items": "2025-06-11 16:56:38 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/bookshelves/polished_blackstone_brick": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/bookshelves/polished_blackstone": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
-    },
-    "done": true
-  },
   "minekea:recipes/building_blocks/furniture/shelves/supported/warped": {
     "criteria": {
       "has_iron_nugget": "2025-06-11 16:56:26 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/bookshelves/vertical/polished_blackstone_brick": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/stairs/bookshelves/vertical/polished_blackstone": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
-    },
-    "done": true
-  },
-  "minekea:recipes/building_blocks/building/slabs/bookshelves/polished_blackstone": {
-    "criteria": {
-      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
     },
     "done": true
   },
@@ -9241,6 +9187,66 @@
   "minekea:recipes/building_blocks/furniture/shelves/supported/cherry": {
     "criteria": {
       "has_iron_nugget": "2025-06-11 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_macaw_metal_door": {
+    "criteria": {
+      "has_items": "2025-06-11 16:56:38 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/bookshelves/vertical/polished_blackstone": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/bookshelves/polished_blackstone": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/bookshelves/vertical/polished_blackstone": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/bookshelves/polished_blackstone": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone": "2025-06-11 17:32:04 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/bookshelves/vertical/polished_blackstone_brick": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/bookshelves/polished_blackstone_brick": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/bookshelves/polished_blackstone_brick": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/bookshelves/vertical/polished_blackstone_brick": {
+    "criteria": {
+      "has_furniture/bookshelves/polished_blackstone_brick": "2025-06-11 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-12 04:44:55 +0000"
     },
     "done": true
   },
