@@ -810,3 +810,44 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [06:19:12] [Server thread/INFO]: [Jeyysz: Teleported xvoots to Jeyysz]
 [06:19:43] [Server thread/INFO]: [Jeyysz: Set own game mode to Survival Mode]
 [06:19:52] [Server thread/INFO]: Jeyysz was slain by Skeleton
+[06:19:58] [Server thread/INFO]: [Jeyysz: Teleported Jeyysz to xvoots]
+[06:20:02] [Server thread/INFO]: xvoots was slain by Skeleton
+[06:20:03] [Server thread/INFO]: Jeyysz was slain by Skeleton
+[06:20:09] [Server thread/INFO]: [Jeyysz: Set own game mode to Creative Mode]
+[06:20:13] [Server thread/INFO]: Jeyysz teleported to 808.5 62.0 49.5 minecraft:overworld
+[06:20:14] [Server thread/INFO]: <xvoots> de nuevo
+[06:21:18] [Server thread/INFO]: [Jeyysz: Gave 1 [Command Block] to Jeyysz]
+[06:22:14] [Server thread/INFO]: Jeyysz has made the advancement [Suit Up]
+[06:24:08] [Server thread/INFO]: xvoots was slain by Skeleton
+[06:24:14] [Server thread/INFO]: <xvoots> tp
+[06:24:38] [Server thread/INFO]: [Jeyysz: Teleported xvoots to Jeyysz]
+[06:25:26] [Server thread/INFO]: xvoots has made the advancement [Diamonds!]
+[06:27:06] [Server thread/INFO]: [Jeyysz: Set own game mode to Survival Mode]
+[06:27:50] [Server thread/INFO]: <xvoots> tienes mis cosas?
+[06:27:56] [Server thread/INFO]: <xvoots> mis pantalones
+[06:28:01] [Server thread/INFO]: <Jeyysz> se perdieron
+[06:28:18] [Server thread/INFO]: <xvoots> vamono mejor
+[06:28:27] [Server thread/INFO]: <xvoots> tomorrow seguimo
+[06:28:29] [Server thread/INFO]: <Jeyysz> nos metieron el guevo entero xd
+[06:28:41] [Server thread/INFO]: <Jeyysz> yo wa segui eplorando
+[06:28:45] [Server thread/INFO]: <xvoots> y no echan leche pal colmo
+[06:28:56] [Server thread/INFO]: <xvoots> gotta sleep
+[06:28:58] [Server thread/INFO]: xvoots lost connection: Disconnected
+[06:28:58] [Server thread/INFO]: xvoots left the game
+[06:28:58] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[06:30:13] [Server thread/WARN]: Jeyysz moved too quickly! 14.26632791212478,1.494313414976716,10.826618774107942
+[06:30:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[06:31:53] [Server thread/INFO]: Jeyysz lost connection: Disconnected
+[06:31:53] [Server thread/INFO]: Jeyysz left the game
+[06:31:53] [Server thread/INFO]: [voicechat] Disconnecting client Jeyysz
+[06:31:56] [Server thread/INFO]: Stopping the server
+[06:31:56] [Server thread/INFO]: Stopping server
+[06:31:56] [Server thread/INFO]: Saving players
+[06:31:56] [Server thread/INFO]: Saving worlds
+[06:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:overworld
+[06:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:the_end
+[06:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TheNino07 - Copia]'/minecraft:the_nether
+[06:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

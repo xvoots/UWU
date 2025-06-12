@@ -502,6 +502,7 @@
       "minecraft:spider": "2025-06-08 02:08:24 +0000",
       "minecraft:zombie": "2025-06-08 02:44:34 +0000",
       "minecraft:creeper": "2025-06-08 17:28:36 +0000",
+      "minecraft:drowned": "2025-06-12 06:29:02 +0000",
       "minecraft:zombie_villager": "2025-06-10 05:21:34 +0000",
       "minecraft:ghast": "2025-06-09 04:04:03 +0000"
     },
@@ -1386,6 +1387,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "spider_eye": "2025-06-10 18:39:04 +0000",
+      "golden_apple": "2025-06-12 06:19:39 +0000",
       "bread": "2025-06-12 06:09:46 +0000",
       "cooked_chicken": "2025-06-09 02:38:01 +0000",
       "rotten_flesh": "2025-06-10 17:28:01 +0000",
@@ -9249,9 +9251,93 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/lime_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-06-12 06:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "onlyexcavators:recipes/tools/gold_excavator": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/birch_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/jungle_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/yellow_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/purple_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
     },
     "done": true
   },
@@ -9261,9 +9347,273 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/mangrove_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 06:24:04 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/red_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/cherry_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-12 06:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-12 06:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/light_blue_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "onlyexcavators:recipes/tools/wooden_excavator": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_standing_table_carpentry": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/gold_block/1x": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_log_kitchen_cabinet_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_log_medical_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/orange_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/storage/compressed/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-06-12 06:19:09 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-06-12 06:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/warped_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-12 06:27:49 +0000"
     },
     "done": true
   },
@@ -9273,9 +9623,117 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/brown_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/pillows/white": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_log_single_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-12 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/crimson_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-12 06:08:52 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/oak_log": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/cyan_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
     },
     "done": true
   },
@@ -9285,9 +9743,136 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 06:24:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-06-12 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/oak_log_seat_carpentry": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/gray_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-12 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/red_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 06:24:04 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/oak_log": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-06-12 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:26:55 +0000",
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/blue_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
     },
     "done": true
   },
@@ -9297,9 +9882,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/storage/compressed/paper": {
     "criteria": {
       "has_paper": "2025-06-12 06:08:52 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/magenta_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-12 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/black_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:root": {
+    "criteria": {
+      "has_wool": "2025-06-12 06:19:08 +0000"
     },
     "done": true
   },
@@ -9309,9 +9942,81 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/bamboo_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/mug": {
     "criteria": {
       "has_glass_bottle": "2025-06-12 06:12:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-12 06:24:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/white_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-12 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -9321,15 +10026,237 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/light_gray_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/soulful_prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-12 04:44:55 +0000"
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/cyan_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 06:24:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/green_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/acacia_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_white_chair_pascal_carpentry": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/tools/golden_saw": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-12 06:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-06-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/magmatic_prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/pink_barber_chair_carpentry": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-12 06:19:08 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/oak_log_bedside_drawer_case": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-06-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/oak_log/1x": {
+    "criteria": {
+      "has_oak_log": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },

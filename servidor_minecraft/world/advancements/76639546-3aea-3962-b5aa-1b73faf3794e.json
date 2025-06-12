@@ -956,6 +956,7 @@
       "cooked_porkchop": "2025-06-10 19:11:22 +0000",
       "apple": "2025-06-11 16:00:05 +0000",
       "bread": "2025-06-08 02:27:09 +0000",
+      "golden_apple": "2025-06-12 06:19:47 +0000",
       "rotten_flesh": "2025-06-08 02:18:37 +0000",
       "cooked_mutton": "2025-06-10 19:10:41 +0000",
       "potato": "2025-06-10 05:01:07 +0000",
@@ -1360,6 +1361,7 @@
       "minecraft:skeleton": "2025-06-10 00:59:24 +0000",
       "minecraft:piglin": "2025-06-10 15:26:37 +0000",
       "minecraft:phantom": "2025-06-12 03:34:18 +0000",
+      "minecraft:silverfish": "2025-06-12 06:19:56 +0000",
       "minecraft:spider": "2025-06-08 17:30:50 +0000",
       "minecraft:zombie": "2025-06-08 03:08:49 +0000",
       "minecraft:creeper": "2025-06-08 17:54:27 +0000"
@@ -4433,15 +4435,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_step": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/lime_barber_chair_carpentry": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
     },
     "done": true
   },
+  "adorn:recipes/dark_oak_platform": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_park_bench_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4457,9 +4495,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/misc/containers/crates/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4475,9 +4555,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_tommy_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/storage/compressed/beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-12 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_coffee_table_pascal_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_log_single_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
     },
     "done": true
   },
@@ -4487,9 +4609,93 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_lukas_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/black_terracotta/1x": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/spruce_planks": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/slabs/vertical/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_pascal_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4499,9 +4705,81 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_gregory_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/black_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/armoires/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_log_kitchen_cabinet_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-12 06:27:25 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_lukas_natural_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-12 06:27:39 +0000"
     },
     "done": true
   },
@@ -4511,9 +4789,81 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_felix_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/compressed/gold_block/1x": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_post": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-12 06:27:26 +0000"
     },
     "done": true
   },
@@ -4523,9 +4873,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-12 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4535,9 +4897,51 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/light_gray_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/general/framed_planks/dark_oak_stripped": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/tables/stripped_dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_ladder_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/storage/compressed/golden_apple": {
     "criteria": {
       "has_golden_apple": "2025-06-12 06:09:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4547,9 +4951,141 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/compressed/dark_oak_planks/1x": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/stripped_dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_log_medical_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_bedside_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_post": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/orange_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/stripped_dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4559,9 +5095,123 @@
     },
     "done": true
   },
+  "adorn:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/chairs/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/bookshelves/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_tommy_natural_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/purple_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/black_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4571,9 +5221,33 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/purple_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/cyan_barber_chair_carpentry": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-12 06:27:39 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/spruce": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4595,6 +5269,12 @@
     },
     "done": true
   },
+  "scuro_furniture:recipes/misc/black_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
@@ -4607,9 +5287,105 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/furniture/tables/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_coffee_table_pascal_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/stripped_dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/beams/black_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/tools/diamond_saw": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_medical_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_coffee_table_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/seating/stools/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_park_bench_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/gray_barber_chair_carpentry": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shutters/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4619,9 +5395,81 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/red_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/tools/wooden_saw": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-06-12 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/covers/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_table_the_classic_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/black_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/blue_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stone_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
     },
     "done": true
   },
@@ -4631,9 +5479,57 @@
     },
     "done": true
   },
+  "scuro_furniture:recipes/misc/white_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/blue_barber_chair_carpentry": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/floating/dark_oak": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_ladder_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_pascal_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_table_the_classic_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/containers/barrels/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4643,9 +5539,75 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/red_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/decorations/magenta_barber_chair_carpentry": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_single_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_lukas_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/deepslate_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_log_bedside_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
     },
     "done": true
   },
@@ -4655,9 +5617,57 @@
     },
     "done": true
   },
+  "scuro_furniture:recipes/misc/stone_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/yellow_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_chair_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-12 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_tommy_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/green_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-06-12 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/white_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4673,9 +5683,51 @@
     },
     "done": true
   },
+  "adorn:recipes/dark_oak_table": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/compressed/spruce_planks/1x": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-12 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4685,9 +5737,57 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/lime_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stone_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/tuff_stripped_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_big_drawer_door": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/building/stairs/vertical/dark_oak_planks": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/display_cases/stripped/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4697,9 +5797,39 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/building/general/framed_planks/dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/soulful_prismarine_chimney": {
     "criteria": {
       "has_key_item_0": "2025-06-12 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4715,9 +5845,39 @@
     },
     "done": true
   },
+  "minekea:recipes/building_blocks/storage/compressed/flint": {
+    "criteria": {
+      "has_flint": "2025-06-12 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/cyan_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-12 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "minekea:recipes/building_blocks/furniture/shelves/supported/dark_oak": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/spruce_barrel_seat_carpentry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_medical_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4733,9 +5893,75 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/dark_oak_kitchen_cabinet_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/magenta_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_blue_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/granite_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "nemos-carpentry:recipes/tools/golden_saw": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/pink_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/light_gray_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
     },
     "done": true
   },
@@ -4745,9 +5971,69 @@
     },
     "done": true
   },
+  "adorn:recipes/building_blocks/magenta_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_single_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/white_dark_oak_log_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/brown_wood_fence_from_dyeing": {
+    "criteria": {
+      "has_fence": "2025-06-12 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-12 06:27:26 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-06-12 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/building_blocks/gray_planks": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-06-12 06:27:13 +0000"
     },
     "done": true
   },
@@ -4757,9 +6043,39 @@
     },
     "done": true
   },
+  "nemos-carpentry:recipes/decorations/dark_oak_barrel_seat_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "nemos-carpentry:recipes/decorations/dark_oak_chair_felix_carpentry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/magmatic_prismarine_chimney": {
     "criteria": {
       "has_key_item_0": "2025-06-12 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4769,9 +6085,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_kitchen_cabinet_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/stripped_dark_oak_log_bedside_drawer_case": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-12 06:27:13 +0000"
+    },
+    "done": true
+  },
   "minekea:recipes/building_blocks/building/beams/gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-12 06:10:18 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
@@ -4784,6 +6142,42 @@
   "adorn:recipes/prismarine_chimney": {
     "criteria": {
       "has_key_item_0": "2025-06-12 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "onlyexcavators:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-12 06:25:26 +0000"
+    },
+    "done": true
+  },
+  "scuro_furniture:recipes/misc/diorite_dark_oak_kitchen_drawer_case": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-06-12 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-12 06:26:55 +0000"
     },
     "done": true
   },
