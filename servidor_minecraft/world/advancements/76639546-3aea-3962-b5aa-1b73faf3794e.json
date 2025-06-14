@@ -6848,5 +6848,11 @@
     },
     "done": true
   },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-06-14 02:19:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
