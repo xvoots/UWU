@@ -561,3 +561,24 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:46:47] [Server thread/INFO]: xvoots joined the game
 [03:46:48] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
 [03:46:48] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[03:59:24] [Server thread/WARN]: xvoots was kicked for floating too long!
+[03:59:24] [Server thread/INFO]: xvoots lost connection: Flying is not enabled on this server
+[03:59:24] [Server thread/INFO]: xvoots left the game
+[03:59:24] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[03:59:24] [Server thread/WARN]: handleDisconnection() called twice
+[03:59:31] [Thread-35/WARN]: Failed to fetch skin: not found
+[03:59:35] [Server thread/INFO]: xvoots[/127.96.171.213:41715] logged in with entity id 2340 at (62.708196835797445, 70.05009905763971, 303.7560186618367)
+[03:59:35] [Server thread/INFO]: Loading config from file...
+[03:59:35] [Server thread/INFO]: xvoots joined the game
+[03:59:35] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[03:59:35] [Server thread/INFO]: [voicechat] Sent secret to xvoots
+[04:12:15] [Server thread/INFO]: xvoots was shot by Skeleton
+[04:12:36] [Server thread/INFO]: xvoots lost connection: Timed out
+[04:12:36] [Server thread/INFO]: xvoots left the game
+[04:12:36] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[04:12:48] [Thread-49/WARN]: Failed to fetch skin: not found
+[04:13:11] [Server thread/INFO]: xvoots[/127.227.153.241:40117] logged in with entity id 6204 at (-242.20785865414055, 75.17334158125298, 452.30000001192093)
+[04:13:11] [Server thread/INFO]: Loading config from file...
+[04:13:11] [Server thread/INFO]: xvoots joined the game
+[04:13:11] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[04:13:11] [Server thread/INFO]: [voicechat] Sent secret to xvoots
