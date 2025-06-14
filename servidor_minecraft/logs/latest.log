@@ -563,3 +563,12 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [21:51:12] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
 [21:51:12] [Server thread/INFO]: [voicechat] Sent secret to xvoots
 [21:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[22:14:29] [Server thread/INFO]: xvoots lost connection: Disconnected
+[22:14:29] [Server thread/INFO]: xvoots left the game
+[22:14:29] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
+[22:14:35] [Thread-41/WARN]: Failed to fetch skin: not found
+[22:14:43] [Server thread/INFO]: xvoots[/127.227.153.241:33349] logged in with entity id 4360 at (48.65951588449233, 63.0, 288.8729728427087)
+[22:14:43] [Server thread/INFO]: Loading config from file...
+[22:14:43] [Server thread/INFO]: xvoots joined the game
+[22:14:44] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
+[22:14:44] [Server thread/INFO]: [voicechat] Sent secret to xvoots
