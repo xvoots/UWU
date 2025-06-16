@@ -566,3 +566,6 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [04:04:50] [Server thread/INFO]: [voicechat] Received secret request of xvoots (18)
 [04:04:50] [Server thread/INFO]: [voicechat] Sent secret to xvoots
 [04:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[04:47:58] [Server thread/INFO]: xvoots lost connection: Disconnected
+[04:47:58] [Server thread/INFO]: xvoots left the game
+[04:47:59] [Server thread/INFO]: [voicechat] Disconnecting client xvoots
